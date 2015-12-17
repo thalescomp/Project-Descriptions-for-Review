@@ -2,7 +2,7 @@
 1. If you need a refresher on JavaScript syntax, go to the [Javascript Basics course](https://www.udacity.com/course/viewer#!/c-ud804-nd); if you would like to understand how this project is manipulating and traversing the DOM, check out [Intro to jQuery](https://www.udacity.com/course/ud245-nd).
 2. Go through the videos and assignments in this course to learn the JavaScript necessary to build your resume.
 3. Read all the project details outlined below and make sure you understand each part. If you are unsure of anything please check with your cohort or private message your cohorts coaches.
-4. Fork the project repo from **[Github](https://github.com/udacity/frontend-nanodegree-resume)** and begin building you resume. 
+4. Fork the project repo from **[Github](https://github.com/udacity/frontend-nanodegree-resume)** and begin building your resume. 
 5. Review your work against the Project Rubric (on the next page).
 6. When you are satisfied with your project, submit it according to the Submission Instructions on the next page.
 
