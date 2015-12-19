@@ -17,5 +17,24 @@ The rubric specifies that the code "makes use of query parameters appropriately 
 This means that students should use the `execute` method, not string concatenation or interpolation to assemble their queries.
 Refer to the [psychopg docs](http://initd.org/psycopg/docs/usage.html#the-problem-with-the-query-parameters) for why.
 
+It should be noted that simply using the 'execute' method does not prevent risk of SQL injection attacks, if the student is still using
+string concatenation or interpolation to build their queries before passing them into 'execute' method.
+
+Incorrect:
+```
+name = 'Steve'
+query = "INSERT INTO TABLE players (name) VALUES (" + Steve + ");"
+cursor.execute(query)
+```
+
+Correct:
+```
+name = 'Steve'
+query = "INSERT INTO TABLE players (name) VALUES (%s);"
+cursor.execute(query, (name, ))
+```
+
+The second argument can contain any number variables in a tuple if there are multiple values to be passed.
+
 This does __NOT__ mean that students should use the Bleach library to sanitize inputs.
 Since this project doesn't involve HTML and the database doesn't store HTML there is no good reason to use Bleach.
