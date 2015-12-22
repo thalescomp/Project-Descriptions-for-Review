@@ -49,11 +49,16 @@ You will learn about the critical rendering path, the process by which the brows
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
 ![rubric](http://i.imgur.com/fblSMf8.png)
 
+#Evaluation and Submission
+## Evaluation
+Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
+![rubric](http://i.imgur.com/fblSMf8.png)
+
 ## Submission
 1. Submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.
 2. If build tools are used the gulp or grunt.js file as well as the json.package file must be included in the submission.
-3. If build tools are used, the instructions for building the project and running the tool must be included in the README.md
-4. The node_modules directory may contain thousands of files and should not be contained in the submission. See this forum post for instructions on [how to remove node_modules directory from Github repository](https://discussions.udacity.com/t/how-to-remove-node-modules-directory-from-github-respository/40929).
+3. If build tools are used, the instructions for building the project and running the tool must be included in the README.md. You may find the short [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777) helpful.
+4. The node_modules directory may contain thousands of files and should not be contained in the submission. See the forum post [how to remove node_modules directory from Github repository](https://discussions.udacity.com/t/how-to-remove-node-modules-directory-from-github-respository/40929) for instructions.
 5. The master branch is the default Github repository branch. If you wish to submit another branch, you'll need to set it as the [new default branch](https://help.github.com/articles/setting-the-default-branch/) inside your Github repository.
 6. When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 4, and we'll walk you through the rest of the submission process. Due to the high volume of submissions we receive, please allow up up to **7 business days** for your evaluation to be returned.
 7. If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **frontend-project@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
