@@ -3,7 +3,7 @@
 ## How Grading Works
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Website Performance Optimization - Best Practices](https://docs.google.com/document/d/1wcXOrjbmFameFtAKlwmxrfvS990M6WltWhos3sRpy4M/pub)
 
-It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. In order to meet specifications every review must work within the guidelines given in the document for each evaluation.
 
 #Project Overview
 
@@ -38,11 +38,11 @@ You will learn about the critical rendering path, the process by which the brows
 7. Comments should be added to main.js to indicate the optimizations implemented in the pizza.html page.
 8. Please do not forget to update the README file and make sure you outline all of your optimizations done in main.js for the pizza.html page.
 9. It's recommended to not measure performance in a virtualized environment. We recommend you measure the FPS performance of pizza.html in your native operating system using Chrome Developer Tools.
-10. Below is a picture of what the target timeline should look like. Evaluators will focus their attention on the timeline rather than the FPS meter due to varying hardware factors that may affect FPS.[Target Timeline](http://i.imgur.com/cI6zwUo.jpg)
+10. Here is a picture of what the [target timeline](http://i.imgur.com/cI6zwUo.jpg) may look like. Evaluators will focus their attention on the timeline rather than the FPS meter due to varying hardware factors that may affect FPS.
 
-You may also find these tips for optimizing pizza.html helpful:
-
-[Effective Optimizations for 60FPS](https://github.com/udacity/fend-office-hours/tree/master/Web%20Optimization/Effective%20Optimizations%20for%2060%20FPS)
+##Useful Links
+- [Effective Optimizations for 60FPS](https://github.com/udacity/fend-office-hours/tree/master/Web%20Optimization/Effective%20Optimizations%20for%2060%20FPS)
+- [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 #Evaluation and Submission
 ## Evaluation
@@ -51,6 +51,16 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
 **Make sure you submit both your source and production code in the same repository in separate folders.**
 
 ## Submission
+Source Code and Optimized Code should be contained within two separate directories, named ```src``` and ```dist``` respectively.
+
+If build tools are used the gulp or grunt.js file as well as the json.package file must be included in the submission.
+
+If build tools are used, the instructions for building the project and running the tool must be included in the README.md
+
+The node_modules directory may contain thousands of files and should not be contained in the submission. See this forum poast for instructions on [how to remove node_modules directory from Github repository](https://discussions.udacity.com/t/how-to-remove-node-modules-directory-from-github-respository/40929).
+
+The master branch is the default Github repository branch. If you wish to submit another branch, you'll need to set it as the [new default branch](https://help.github.com/articles/setting-the-default-branch/) inside your Github repository.
+
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 4, and we'll walk you through the rest of the submission process. Due to the high volume of submissions we receive, please allow up up to **7 business days** for your evaluation to be returned.
 
 If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **frontend-project@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
