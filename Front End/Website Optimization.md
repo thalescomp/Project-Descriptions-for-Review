@@ -3,7 +3,7 @@
 ## How Grading Works
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Website Performance Optimization - Best Practices](https://docs.google.com/document/d/1wcXOrjbmFameFtAKlwmxrfvS990M6WltWhos3sRpy4M/pub)
 
-It is VERY IMPORTANT that you read this document before you begin evaluating projects. In order to meet specifications every review must work within the guidelines given in the document for each evaluation.
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. In order to meet specifications every review must follow the guidelines given in the document.
 
 #Project Overview
 
@@ -48,16 +48,15 @@ You will learn about the critical rendering path, the process by which the brows
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
 ![rubric](http://i.imgur.com/fblSMf8.png)
-**Make sure you submit both your source and production code in the same repository in separate folders.**
 
 ## Submission
-Source Code and Optimized Code should be contained within two separate directories, named ```src``` and ```dist``` respectively.
+Submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.
 
 If build tools are used the gulp or grunt.js file as well as the json.package file must be included in the submission.
 
 If build tools are used, the instructions for building the project and running the tool must be included in the README.md
 
-The node_modules directory may contain thousands of files and should not be contained in the submission. See this forum poast for instructions on [how to remove node_modules directory from Github repository](https://discussions.udacity.com/t/how-to-remove-node-modules-directory-from-github-respository/40929).
+The node_modules directory may contain thousands of files and should not be contained in the submission. See this forum post for instructions on [how to remove node_modules directory from Github repository](https://discussions.udacity.com/t/how-to-remove-node-modules-directory-from-github-respository/40929).
 
 The master branch is the default Github repository branch. If you wish to submit another branch, you'll need to set it as the [new default branch](https://help.github.com/articles/setting-the-default-branch/) inside your Github repository.
 
