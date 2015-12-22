@@ -47,7 +47,7 @@ You may also find these tips for optimizing pizza.html helpful:
 #Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![rubric](//i.imgur.com/fblSMf8.png)
+![rubric](http://i.imgur.com/fblSMf8.png)
 **Make sure you submit both your source and production code in the same repository in separate folders.**
 
 ## Submission
