@@ -148,3 +148,7 @@ If you are having any problems submitting your project or wish to check on the s
 
 ## What's Next?
 You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
+
+
+## Useful Links
+- [Udacity Front End Javascript Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
