@@ -1,18 +1,4 @@
-## How do I Complete this Project?
-This project is connected to the [Intro to HTML and CSS course](https://www.udacity.com/course/viewer#!/c-ud304-nd) but depending on your background knowledge of HTML and CSS you may not need to take the whole thing to complete this project. Here's what you should do:
-
-1. Download the [design mockup file](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/p1.pdf)
-2. Identify the various boxes you will need to build in order to recreate this design.
-3. Write your HTML and CSS files, continue to iterate until your work is representative of the design mockup.
-4. Take the time to personalize your portfolio with custom colors, additional content and your own images.
-5. Validate your HTML and CSS against the [W3C's Validators](http://validator.w3.org/). *Note: the validators consider the following errors, whereas Udacity accepts these errors as acceptable:*
-
-- HTML5: **Bad value X-UA-Compatible for attribute http-equiv on element meta** when using the X-UA-Compatible meta tag.
-
-- CSS3: **Property *[some property here]* is an unknown vendor extension** when using vendor prefixed properties (like -moz-box-sizing).
-
-## Useful Links
-[Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+# For Reviewers
 
 ## How Grading Works
 
@@ -20,15 +6,67 @@ We have created a document that gives rubric specific instructions to help you g
 
 It is VERY IMPORTANT that you read this document before you begin evaluating projects. Ensure you work with the guidelines given in the document for each evaluation.
 
-## Evaluation
-Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. Your "project meets specifications" if it meets specifications in all the criteria. 
-![Project Rubric](http://i.imgur.com/Eqpc8ya.png)
-![responsive](http://i.imgur.com/wI1rh1H.png)
-![concerns](http://i.imgur.com/NpyU8oE.png)
-![style](http://i.imgur.com/MEg0aM0.png)
+# Project Overview
+
+![Project Roadmap](http://i.imgur.com/MtxM7by.jpg)
+
+## Project Overview 
+You will be provided a design mockup as a PDF-file and must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete through the course of the Front-End Web Developer nanodegree.
+
+Once you've successfully replicated the design mockup, you are encouraged to continue tweaking and making customizations to the design to personalize it and make it your own!
+
+##Note
+If you have successfully completed the project for the Intro to HTML and CSS course in the past (which entails having graduated from the course and having access to your course certificate), simply email us at frontend-project@udacity.com with your passing evaluation and we'll give you credit for this project.
+
+## Why this Project?
+The first thing potential employers look for isn’t which school you attended or what your GPA was; they want to see what you’ve built! You need a professional portfolio to show off your skills.
+
+In this project you’ll build a great look portfolio where you can show off images, descriptions and link to all of your projects. You'll do so writing code that conforms to the [Udacity Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/).
+
+## What will I learn?
+You will learn how HTML is used to define the content of a web page and start to think of every web page as a number of boxes on the screen. You’ll then learn how to position those boxes and make them beautiful using CSS.
+
+You'll accomplish this while conforming to a [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which is an important constraint once you step into any existing development position.
+
+## Why is this Important to my Career?
+
+* Without a portfolio, recruiters won’t even look at your resume much less interview you.
+* At their very foundation, web applications are just content delivery mechanisms; HTML defines how that language is structured.
+* Reading poorly designed content is never an enjoyable experience; CSS empowers you to create beautiful content regardless of your user’s device.
+
+# Project Details
+
+## How do I Complete this Project?
+This project is connected to the [Intro to HTML and CSS course](https://www.udacity.com/course/viewer#!/c-ud304-nd) but depending on your background knowledge of HTML and CSS you may not need to take the entire course to complete this project. Here's what you should do:
+
+1. Download the [design mockup file](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/p1.pdf). Note that the color swatches on the left are for color reference only. They are not part of the design.
+2. Identify the various boxes you will need to build in order to recreate this design.
+3. Write your HTML and CSS files, continue to iterate until your work is representative of the design mockup.
+4. Take the time to personalize your portfolio with custom colors, additional content and your own images.
+5. Validate your HTML and CSS against the [W3C's Validators](http://validator.w3.org/). See Useful Links below. *Note: the validators consider the following errors, whereas Udacity accepts these errors as acceptable:*
+
+- HTML5: **Bad value X-UA-Compatible for attribute http-equiv on element meta** when using the X-UA-Compatible meta tag.
+
+- CSS3: **Property *[some property here]* is an unknown vendor extension** when using vendor prefixed properties (like -moz-box-sizing).
+
+- CSS3: **Value Error: *[some property here]* Parse Error calc...**.
+
+## Useful Links
+[Udacity Frontend Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+[W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+[W3C HTML Validator](http://validator.w3.org)
+
+# Evaluation and Submission
+
+##Evaluation
+Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+
+![Project Rubric 1](http://i.imgur.com/gkv4c0u.png)
+![Project Rubric 2](http://i.imgur.com/49GO15O.png)
+![Project Rubric 3](http://i.imgur.com/5cIlSss.png)
 
 ## Style Guidelines
-###CSS REQUIRED Rules
+###CSS Guidelines
  - CSS - Use consistent indentation (tabs or spaces).   (See: CSS General Formatting Rules-Indentation)
  - CSS - Selectors, properties and property values (with the exception of strings) should be lowercase, including letters in hexadecimal color values. For example #f06c13 instead of #F06C13 and #ccc rather than #CCC. (See: CSS-General Formatting Rules-Capitalization.)
  - CSS - Use IDs and class names that are meaningful or generic. (See: CSS-ID and Class Naming.)
@@ -42,8 +80,6 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
  - CSS - Include a single space before the opening curly brace. (See: CSS-Declaration Block Separation.)
  - CSS - ID and class names should not be used with type selectors. (See Style Guide: CSS Style Rules-Type Selectors.)
  - CSS - Separate style rules with a blank line. (See: CSS-Rule Separations.)
-
-###CSS SUGGESTED Rules
  - CSS - Remove units of measure after 0 values. (See: CSS Style Rules-0 and Units.)
  - CSS - Use leading zeros for values in the code. (See: CSS Style Rules-Leading 0s.)
  - CSS - Use 3 character hexadecimal notation for color in all possible places.  For example #ccc rather than #cccccc. (See: CSS Style Rules-Hexadecimal Notation.)
@@ -57,7 +93,7 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
  - CSS - Identify groups of related style rules with section comments. 
 (See: CSS Meta Rules-Section Comments.)
 
-###HTML REQUIRED Rules
+###HTMLGuidelines
  - HTML - Element and attribute names should all be lowercase. (See: Capitalization.)
  - HTML - Use HTML5. (See: HTML Style Rules-Document Type.)
  - HTML - Use UTF-8 as character encoding. 
@@ -70,8 +106,6 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
 (See: HTML - General Formatting Rules - Trailing Whitespace.)
  - HTML - Use consistent indentation (tabs or spaces) 
 (See HTML - General Formatting Rules - Indentation)
-
-###HTML SUGGESTED Rules
  - HTML - Use comments to explain the code. 
 (See: General Meta Rules-Comments.)
  - HTML - Mark action items with TODO. 
@@ -82,3 +116,11 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
 (See: HTML Style Rules-Type Attributes.)
  - HTML - Use double rather than single quotation marks for attribute values. 
 (See: HTML-HTML Quotation Marks.)
+
+## Submission
+When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 1, and we'll walk you through the rest of the submission process. Due to the high volume of submissions we receive, please allow up up to **7 business days** for your evaluation to be returned.
+
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **frontend-project@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
+
+## What's Next?
+You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
