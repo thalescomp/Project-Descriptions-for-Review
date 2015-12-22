@@ -6,21 +6,6 @@ It is VERY IMPORTANT that you read this document before you begin evaluating pro
 
 # Project Overview
 
-![Project Roadmap](http://i.imgur.com/aZI0Wb5.jpg)
-
-You will develop a single page application featuring a map of your neighborhood or a neighborhood you would like to visit. You will then add additional functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content.
-
-## Why this Project?
-The neighborhood tour application is complex enough and incorporates a variety of data points that it can easily become unwieldy to manage. There are a number of frameworks, libraries and APIs available to make this process more manageable and many employers are looking for specific skills in using these packages.
-
-## What will I Learn?
-You will learn how design patterns assist in developing a manageable codebase. You’ll then explore how frameworks can decrease the time required developing an application and provide a number of utilities for you to use. Finally, you’ll implement third-party APIs that provide valuable data sets that can improve the quality of your application.
-
-## How does this help my Career?
-* Interacting with API servers is the primary function of Front-End Web Developers
-* Use of third-party libraries and APIs is a standard and acceptable practice that is encouraged
-
-# Project Details
 ## How will I complete this Project?
 1. Review our course <a href="https://www.udacity.com/course/ud989-nd" target="_blank">JavaScript Design Patterns</a>.
 2. Download the <a href="http://knockoutjs.com/" target="_blank">Knockout framework</a>. Knockout must be used to handle list, filter, and any other information on the page that is subject to changing state. Things that should not be handled by knockout: anything the map api is used for, tracking markers, making the map, refreshing the map.
@@ -32,6 +17,8 @@ You will learn how design patterns assist in developing a manageable codebase. Y
 8. Add additional functionality to animate a map marker when either the list item associated with it or the map marker itself is selected.
 9. Add additional functionality to open an infoWindow with the information described in step 7 when either a location is selected from the list view or its map marker is selected directly.
 10. Interface should be very intuitive to use. For example, the input text area to filter locations should be easy to locate. It should be easy to understand what set of locations is being filtered. Selecting a location via list item or map marker should cause the map marker to bounce or in some other way animate to indicate that the location has been selected and associated info window opens above map marker with additional information.
+11. We expect your application to provide a filter option on the map markers displayed by default on load. The list view and the markers should update accordingly in real-time. Providing a search function through a third-party API is not enough to meet specifications.
+12. Error Handling: In case of error (e.g. in a situation where a third party api does not return the expected result) we expect your webpage to do one of the following:  A message is displayed notifying the user that the data can't be loaded, **OR** There are no negative repercussions to the UI. **Note:** Please note that we expect students to handle errors if the browser has trouble initially reaching the 3rd-party site as well. For example, imagine a user is using your neighborhood map, but her firewall prevents her from accessing the Instagram servers. Here is a reference article on [how to block websites](http://www.digitaltrends.com/computing/how-to-block-a-website/) with the hosts file. It is important to handle errors to give users a consistent and good experience with the webpage. Read [this blogpost](http://ruben.verborgh.org/blog/2012/12/31/asynchronous-error-handling-in-javascript/) to learn more .Some JavaScript libraries  provide special methods to handle errors. For example: refer to .fail() method discussed [here](http://api.jquery.com/jquery.ajax/#jqXHR) if you use jQuery's ajax() method. We strongly encourage you to explore ways to handle errors in the library you are using to make API calls.
 
 ## Example: BART Locations San Francisco
 
@@ -55,7 +42,7 @@ None of these are required, but they may be helpful.
 * <a href="https://github.com/udacity/fend-office-hours/tree/master/Javascript%20Design%20Patterns/P5%20Project%20Overview" target="_blank">Project 5 Overview WebCast</a>
 * <a href="http://learn.knockoutjs.com/" target="_blank">Knockout JS Tutorials</a>
 * <a href="http://todomvc.com/examples/knockoutjs/" target="_blank">Todo MVC Knockout Example</a>
- 
+
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
