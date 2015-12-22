@@ -1,9 +1,14 @@
+# For Reviewer
+## How Grading Works
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Website Performance Optimization - Best Practices](https://docs.google.com/document/d/1RewU2A88u9AWJ-y70FJl-4bPxAUhTPBp8iUPvM5HoQM/pub)
+
+It is VERY IMPORTANT that you read this document before you begin evaluating projects. In order to meet specifications every review must follow the guidelines given in the document.
+
 #Project Overview
 ![Project Roadmap](http://i.imgur.com/9FOltK1.jpg)
 
 **This is an optional project - not required to complete your Nanodegree.**
 
-## Project Overview
 Using Backbone, you will develop a single page app that tracks the user's calorie intake, and optionally, other health-related metrics. Typing food names into the search field will display a list of matching foods as provided by the health API. Users will be able to select an item from the list, and the item will be added to the list of foods the user is tracking. The total calorie count will also update to reflect the new daily total.
 
 ## Why this Project?
