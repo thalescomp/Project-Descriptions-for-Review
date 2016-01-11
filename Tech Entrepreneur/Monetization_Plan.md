@@ -57,6 +57,7 @@ Students are encouraged to identify the barriers to monetization and come up wit
 KPIs measure how well a business achieves its key objectives. Therefore the student must define their key business objectives in first in order to define their KPIs appropriately. KPIs indicate where actions should be taken in the business in order to drive key objectives and not simply a report of the current state of the business.
 
 Here is an example of a KPI: Number of user installations per 15 days
+
 Here is an example of a static metric: Revenue generated in the past 15 days
 
 With the KPI mentioned above, if the numbers of users drop, the business can focus in on why users dropped and start taking action to drive the number of user installations back up again. The static metric doesn't allow a business to recognize where to take action if revenue starts falling.
