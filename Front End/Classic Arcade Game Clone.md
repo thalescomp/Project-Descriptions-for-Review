@@ -21,7 +21,7 @@ It is VERY IMPORTANT that you read this document before you begin evaluating pro
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![rubric1](http://i.imgur.com/6qFLn8r.png)
+![rubric1](http://lh3.googleusercontent.com/OdKVKhSwOR1hi9KdNsL0e24va_omApWZCWVyEo03wcR4vZTQscAGBb8aBEQXNukLwZS5SLk3i6GQjF9ZIOBH=s0#w=972&h=618)
 
 ## Submission
 1. The master branch is the default Github repository branch. If you wish to submit another branch, you'll need to set it as the [new default branch](https://help.github.com/articles/setting-the-default-branch/) inside your Github repository.
