@@ -61,9 +61,9 @@ This project is connected to the [Intro to HTML and CSS course](https://www.udac
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
-![Project Rubric 1](http://i.imgur.com/gkv4c0u.png)
-![Project Rubric 2](http://i.imgur.com/49GO15O.png)
-![Project Rubric 3](http://i.imgur.com/5cIlSss.png)
+![Project Rubric 1](http://lh3.googleusercontent.com/A-kyVPJtCKksKTkskxm9hWAp7sCgQhKkP8QCauQU4V-yoOFaFF4-ccDJWfA2l09D98RfPm_H_b22orzjqJc=s0#w=873&h=703)
+![Project Rubric 2](http://lh3.googleusercontent.com/RIekXGtE9WzSREaAyg3R_YiUY-mhz8DwGs_9FmbxjG7hV_icenJ4OJEuDXGu6r9M8O9npV9bmv_9Mm3L5qU=s0#w=872&h=715)
+![Project Rubric 3](http://lh3.googleusercontent.com/v17N67_r_r6vWOMqvXbdSlcnJMIgKKIhRpPwIHGtK2V5ISP2rZcBDdGIfqW4WSw-OxtonsPzHyPmvdTwu4E=s0#w=875&h=488)
 
 ## Style Guidelines
 ###CSS Guidelines
