@@ -83,7 +83,7 @@ Happy with the results? Go to the next part of the project for submission instru
 ## Evaluation
 Project rubrics are used by code reviewers to determine if a project meets specifications. For this project, we encourage you to follow all the steps given in the instructions on this and the following page tabs. The project will meet specifications according to the following rubric:
 
-![Image of Rubric](http://i.imgur.com/4oDjx32.png)
+![Image of Rubric](http://lh3.googleusercontent.com/EVnjsnZ2uLjNkARuvHhb4TJXv8X_YbLzHIQ_h9YgmuJp6Dc5c2h1VLICSnAKLzhrHklTgFISx55-bojrB_c=s0#w=875&h=320)
 
 You're going to start by working on a website. By the end of this project, it'll look something like this:
 
