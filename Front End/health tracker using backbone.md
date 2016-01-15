@@ -81,9 +81,9 @@ So there's an exploration of this error, what's happening, and one way to get ar
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![r1](http://i.imgur.com/T38q489.png)
-![r2](http://i.imgur.com/Z30VhLO.png)
-![r3](http://i.imgur.com/bJnD2RV.png)
+![r1](http://lh3.googleusercontent.com/pYDrp2rshl5F28ZGBx27lfiDJPQChZysIvuW6p887wSOi38goOUM7yRUEZjWzVYYjMNAd7QFA-kJvbUPCVA=s0#w=975&h=427)
+![r2](http://lh3.googleusercontent.com/osb0WwK-AHGftwrqFAzbo5jo57hOsMgbICi0n9beOTphh48t5IGlI_6t_NFsYiwrbz3XFgiZzQwXbPn2Lp0=s0#w=975&h=433)
+![r3](http://lh3.googleusercontent.com/MIKvA3xXn-g_S0dBRJYF40bKNC9BhGtnjmSvtw3D8T3PWLZCAWpmcejsLbeVFT5uhBTQS5j6UVjhj1Deo2w=s0#w=975&h=280)
 
 ## Submission
 1. If build tools are used, submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.
