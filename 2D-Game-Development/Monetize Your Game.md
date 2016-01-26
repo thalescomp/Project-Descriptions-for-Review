@@ -5,6 +5,7 @@ This is the third project in the 2D Mobile Game Developer Nanodegree.  Prepare f
 ## Introduction
 
 This project will help you figure out how your mobile game will make money! With this project, you’ll create an idea for a game and identify how it will generate revenue (your monetization strategy). You’ll dig into the details and rationale behind your chosen monetization strategy. Finally, you’ll prepare your game for distribution to an app store and describe your design decisions. The project  that you submit will include five items:
+
 1. Game and Minimum Viable Product: Describe your game and choose the features to include in a minimum viable product. 
 2. Engagement Strategy: What you plan to include in your game to make it engaging and encourage your player base to grow.
 3. Monetization Strategy and Details: A brief overview of your monetization strategy and an in-depth look at your rationale for  choosing it. 
@@ -17,6 +18,7 @@ The portfolio will be submitted as a PDF document.
 
 Describe your idea for a game and decide on the features you need to include to create a minimum viable product. 
 Focus on answering the following questions:
+
 1. Briefly describe your idea for a complete game. What is the overall gameplay like?
 2. Describe how you would simplify your game to create the minimum viable product. What are the minimum set of features that your game must include for it to be entertaining?
 3. Justify your choices for the features you included in your minimum viable product. What makes them necessary as opposed to extraneous?
@@ -26,6 +28,7 @@ Focus on answering the following questions:
 
 Adding on to your minimum viable product, describe the engagement strategies you will use to improve your game play and encourage your player base to grow.
 Focus on answering the following questions about engagement strategy:
+
 1. What features will you include in your game to make it engaging and to encourage your player base to grow? (game pace, competition, social networks, overall player experience, etc.)
 2. Explain your choice of engaging features. How does each feature contribute to player engagement?
 
@@ -57,6 +60,7 @@ Your actual metrics will vary depending on your revenue goals, your game, and yo
 ## Prepare for Distribution
 
 Design a game icon, name, and keywords for your game display in an app store. You may choose to submit a 114x114px icon or just describe it.
+
 1. Submit or describe your icon, and your choices for game name and keywords. Please choose at least five different keywords.
 2. For these **three** components (icon, name, keywords) answer the questions:
     * What were your design considerations for this component?
