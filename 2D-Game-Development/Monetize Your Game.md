@@ -38,6 +38,7 @@ There are many ways to make your game engaging and get your players invested in 
 
 Begin with a short description of your overall monetization strategy. Then dive into describing the rationale behind the methods you chose.
 The most important questions this description should answer are:
+
 1. How do you plan to make money? What is your overall strategy?
 2. What are the specific methods you will use to make money? (pricing, mobile ads, in-app purchases, merchandise, etc.)
 3. Justify your use of each monetization method your choose. Why will these methods make money for your game?
@@ -49,6 +50,7 @@ Costs of distribution and creating the app should not be mentioned in this write
 
 What are the most important things you’ll track to determine if your monetization strategy works and how users are behaving? What do these metrics indicate? 
 Below are some examples of metrics and results that could indicate a successful monetization strategy (depending on your game):
+
 1. Higher than X minutes played in an average game session.
 2. Players average more than X sessions per day or per week.
 3. More than YY% of your users stay one day/week/month after they first start playing.
