@@ -21,7 +21,7 @@ The file you receive from students, when unzipped, should contain a file called 
 
 The top of the file should look something like this:
 
-'''<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -32,15 +32,15 @@ The top of the file should look something like this:
   <a href="index.html">Back to Project Compass</a>
   <h1 class="title"> Project <img class="compass_icon"src="img/compass.svg"> Compass</h1>
   <h1 class="title">Reverse Engineering Project</h1>
-  <div id= "wrapper">'''
+  <div id= "wrapper">```
 
-You should go to the '''<!--Student Answer Section-->''' or open answers.html in a browser to read the student's answers.
+You should go to the `<!--Student Answer Section-->` or open answers.html in a browser to read the student's answers.
 
 2. Review submission
 
 The Student Answer should have these answers with explanations:
 
-
+```
     <!-- Question 1 -->
     <p>1. Which programmer would build and manage the database for storing map pin locations in Project Compass?</p>
     <!--Your Answer to question 1 goes here-->
@@ -120,7 +120,7 @@ The Student Answer should have these answers with explanations:
       <p>Front End Programmer, Back end Programmer, Mobile Programmer, or Data Analyst<p>
       <p>Students' explanation</p>
     </div>
-'''
+```
 I suspect most submissions will meet specifications. This stage is intentionally easy.
 
 Below is the Stage 4 project rubric:
