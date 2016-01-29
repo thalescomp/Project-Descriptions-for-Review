@@ -33,8 +33,8 @@ The top of the file should look something like this:
   <a href="index.html">Back to Project Compass</a>
   <h1 class="title"> Project <img class="compass_icon"src="img/compass.svg"> Compass</h1>
   <h1 class="title">Reverse Engineering Project</h1>
-  <div id= "wrapper">```
-
+  <div id= "wrapper">
+```
 You should go to the `<!--Student Answer Section-->` or open answers.html in a browser to read the student's answers.
 
 2. Review submission
