@@ -45,16 +45,16 @@ The Student Answer should have these answers with explanations:
     <p>1. Which programmer would build and manage the database for storing map pin locations in Project Compass?</p>
     <!--Your Answer to question 1 goes here-->
     <div class= "answer">
-      <p>Back end Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Back End Programmer or Developer<p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 2 -->
     <p>2. Which programmer would make Project Compass responsive on different screen sizes on the web?</p>
     <!--Your Answer to question 2 goes here-->
     <div class= "answer">
-      <p>Front end Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Front End Programmer or Developer<p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 3 -->
@@ -62,7 +62,7 @@ The Student Answer should have these answers with explanations:
     <!--Your Answer to question 3 goes here-->
     <div class= "answer">
       <p>iOS Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 4 -->
@@ -70,7 +70,7 @@ The Student Answer should have these answers with explanations:
     <!--Your Answer to question 4 goes here-->
     <div class= "answer">
       <p>Front End Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 5 -->
@@ -86,7 +86,7 @@ The Student Answer should have these answers with explanations:
     <!--Your Answer to question 6 goes here-->
     <div class= "answer">
       <p>Front End Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 7 -->
@@ -94,31 +94,31 @@ The Student Answer should have these answers with explanations:
     <!--Your Answer to question 7 goes here-->
     <div class= "answer">
       <p>Mobile Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 8 -->
     <p>8. Which programmer would make a post request endpoint to add comments onto Project compass?</p>
     <!--Your Answer to question 8 goes here-->
     <div class= "answer">
-      <p>Back end Programmer or Developer<p>
-      <p>Students' explanation</p>
+      <p>Back End Programmer or Developer<p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 9 -->
     <p>9. Which programmer would look at user clicking rates on Project Compass to make recommendations for external tourism sites?</p>
     <!--Your Answer to question 9 goes here-->
     <div class= "answer">
-      <p>Data Analysts<p>
-      <p>Students' explanation</p>
+      <p>Data Analyst<p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 10 -->
     <p>10. After evaluating these four different paths into programming, which role are you most interested in pursuing? Why?</p>
     <!--Your Answer to question 10 goes here-->
     <div class= "answer">
-      <p>Front End Programmer, Back end Programmer, Mobile Programmer, or Data Analyst<p>
-      <p>Students' explanation</p>
+      <p>Front End Programmer, Back End Programmer, Mobile Programmer, or Data Analyst<p>
+      <p>Student's explanation</p>
     </div>
 ```
 I suspect most submissions will meet specifications. This stage is intentionally easy.
@@ -126,7 +126,7 @@ I suspect most submissions will meet specifications. This stage is intentionally
 Below is the Stage 4 project rubric:
 
 Rubric:
-
+[reverse engineering rubric](http://i.imgur.com/vDYLPM5.png)
 
 4. Write Feedback
 
