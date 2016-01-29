@@ -21,7 +21,8 @@ The file you receive from students, when unzipped, should contain a file called 
 
 The top of the file should look something like this:
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
