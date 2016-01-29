@@ -126,7 +126,7 @@ I suspect most submissions will meet specifications. This stage is intentionally
 Below is the Stage 4 project rubric:
 
 Rubric:
-[reverse engineering rubric](http://i.imgur.com/vDYLPM5.png)
+![reverse engineering rubric](http://i.imgur.com/vDYLPM5.png)
 
 4. Write Feedback
 
