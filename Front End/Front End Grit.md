@@ -1,11 +1,10 @@
 # For Reviewers
 
-# Project Overview
-
-
-
 ## Project Overview 
 
+For this first project, we want you to imagine that you are a month into FEND and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess.
+
+We want you to write a paragraph about what you’ll do next. How will you solve your problem?
 
 ## Why this Project?
 
@@ -28,6 +27,8 @@
 
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+
+![Project Rubric 1]()
 
 
 ## Style Guidelines
