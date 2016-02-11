@@ -27,6 +27,6 @@ Before submitting your project for evaluation, we recommend that you check that 
 2. You have created a `goals.txt` file
 3. You are proud of your reflections, and are ready to have a Project Reviewer spend time reviewing them!
 4. You checked your project against the the [Rubric](https://docs.google.com/document/d/1UjQzos6GhoFEi0ZsOr9Q_hdqBSZjaKBnGLuLe9VdMCM/pub).
-5. You have created a .zip file with your submission. For instructions on how to do this, click here.
+5. You have created a .zip file with your submission. 
 
 When you feel ready to submit, use the blue **Submit Project** button below!
