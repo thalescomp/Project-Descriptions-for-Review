@@ -1,89 +1,32 @@
-# For Reviewers
+#Project Instructions
 
-## Project Overview 
+Now that you’ve learned about the history of Front End Development, and where you stand in that evolving story, I want you to reflect on what your journey will be like as you develop your skills. You’ve heard from us about how our experience has been as web developers, but now you should read more from others about their problem solving strategies. Go ahead and read the following:
 
-For this first project, we want you to imagine that you are a month into FEND and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess.
+* [How To Navigate the Up and Downs Of Learning To Code](http://www.codeconquest.com/blog/how-to-navigate-the-up-and-downs-of-learning-to-code/)
+* [My First Month Coding: An Emotional Roller Coaster](http://blog.thinkful.com/post/98829096308/my-first-month-coding-an-emotional-roller-coaster)
+* Optional: [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
-We want you to write a paragraph about what you’ll do next. How will you solve your problem?
-
-## Why this Project?
-
-
-
-## What will I learn?
+Once you’ve read these, you’ll know all about the path ahead of you, and you’ll have even more tools to help you solve problems and grow your Developer Mindset.
 
 
+###For this first project, I want you to do the following:
 
-## Why is this Important to my Career?
+1. Imagine that you are a month into your Nanodegree program and you’re stuck. Totally stuck. You have no idea what’s wrong and you have no idea how to get yourself out of this mess. Create a .txt file and title it `lettertoself.txt`. In this file, write a letter to yourself. How will you solve your problem? What skills do you have now that will help you tackle challenges? How will what you’ve learned about having a growth mindset help you reach your goals?
+2. Create another .txt file and title it `goals.txt`. Write a brief statement sharing your goals as a developer with us. These goals can be project goals, career goals, or personal goals. Is there a dream job you’re working toward? Is there a project idea you’ve been aching to start working on?
+  * Optional: In addition to your goals, we also want to know about any questions you have about the process of becoming a Front End Developer. Is there anything about being a Front-End Developer that you’d like to know more about?
 
+When you’re done, create a .zip from these files to submit to our project reviewers.
 
-# Project Details
-
-## How do I Complete this Project?
-
-## Useful Links
-
-# Evaluation and Submission
-
-##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
-
-![Project Rubric 1]()
+These files will be reviewed by our Udacity project reviewers, who are all working developers. They are real humans who have faced the same challenges you will, so they’ll be able to offer up some insights that may help you as you embark on these goals! Make sure to take some time to really think about these reflections. Many of these developers have had the same questions and concerns as you, and they want to hear what you have to say!
 
 
-## Style Guidelines
-###CSS Guidelines
- - CSS - Use consistent indentation (tabs or spaces).   (See: CSS General Formatting Rules-Indentation)
- - CSS - Selectors, properties and property values (with the exception of strings) should be lowercase, including letters in hexadecimal color values. For example #f06c13 instead of #F06C13 and #ccc rather than #CCC. (See: CSS-General Formatting Rules-Capitalization.)
- - CSS - Use IDs and class names that are meaningful or generic. (See: CSS-ID and Class Naming.)
- - CSS - Use ID and class names that are as short as possible but as long as necessary. (See: CSS-ID and Class Naming.)
- - CSS - Use Shorthand properties in all possible places for margin, border, padding, background. Examples: https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties. (See: CSS Style Rules-Shorthand Properties.)
- - CSS - Indent block content between curly braces. (See: CSS Formatting Rules-Block Content Indentation.)
- - CSS - End all declarations with a semicolon. (See: CSS Formatting Rules-Declaration Stops.)
- - CSS - Add single spaces after each property name’s  colon (See: CSS Formatting Rules-Property Name Stops.)
- - CSS - Remove trailing white spaces from code. (See: CSS General Formatting Rules-Trailing Whitespace)
- - CSS - there should be a single space after each colon. (See: CSS Formatting Rules-Property Name Stops.)
- - CSS - Include a single space before the opening curly brace. (See: CSS-Declaration Block Separation.)
- - CSS - ID and class names should not be used with type selectors. (See Style Guide: CSS Style Rules-Type Selectors.)
- - CSS - Separate style rules with a blank line. (See: CSS-Rule Separations.)
- - CSS - Remove units of measure after 0 values. (See: CSS Style Rules-0 and Units.)
- - CSS - Use leading zeros for values in the code. (See: CSS Style Rules-Leading 0s.)
- - CSS - Use 3 character hexadecimal notation for color in all possible places.  For example #ccc rather than #cccccc. (See: CSS Style Rules-Hexadecimal Notation.)
- - CSS - Separate words in ID and class names with a hyphen. (See: CSS Style Rules-ID and Class Name Delimiters.)
- - CSS - Remove CSS hacks or user detection from code. 
-(See: CSS Style Rules-Hacks.)
- - CSS - Separate selectors and declarations with new lines. 
-(See: CSS-Selector and Declaration Separation.)
- - CSS - Use double quotes for all attribute selectors and property values. 
-(See: CSS Formatting Rules-CSS Quotation Marks.)
- - CSS - Identify groups of related style rules with section comments. 
-(See: CSS Meta Rules-Section Comments.)
+#Submitting Your Project
+Before submitting your project for evaluation, we recommend that you check that each of the following is true:
 
-###HTMLGuidelines
- - HTML - Element and attribute names should all be lowercase. (See: Capitalization.)
- - HTML - Use HTML5. (See: HTML Style Rules-Document Type.)
- - HTML - Use UTF-8 as character encoding. 
-(See: General Meta Rules-Encoding.)
- - HTML - Place all block/list/table elements on a separate line and indent child elements. (See: HTML-General Formatting.)
- - HTML - Use semantic tags. (See: HTML Style Rules-Semantics.)
- - HTML - Provide alternate content for multimedia. 
-(See: HTML Style Rules-Multimedia Fallback.)
- - HTML - Remove trailing white spaces from code. 
-(See: HTML - General Formatting Rules - Trailing Whitespace.)
- - HTML - Use consistent indentation (tabs or spaces) 
-(See HTML - General Formatting Rules - Indentation)
- - HTML - Use comments to explain the code. 
-(See: General Meta Rules-Comments.)
- - HTML - Mark action items with TODO. 
-(See: General Meta Rules-Action Items.)
- - HTML - Remove entity references. 
-(See: HTML Style Rules-Entity References.)
- - HTML - Remove type attribute from link and script elements. 
-(See: HTML Style Rules-Type Attributes.)
- - HTML - Use double rather than single quotation marks for attribute values. 
-(See: HTML-HTML Quotation Marks.)
+1. You have created a `lettertoself.txt` file
+2. You have created a `goals.txt` file
+3. You are proud of your reflections, and are ready to have a Project Reviewer spend time reviewing them!
+4. You checked your project against the the Rubric
+5. You have created a .zip file with your submission. For instructions on how to do this, click here.
 
-## Submission
-
-## What's Next?
-You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
+When you feel ready to submit, use the blue **Submit Project** button below!
