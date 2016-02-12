@@ -1,5 +1,5 @@
 # Project 1: Model Evaluation and Validation
-# Predicting Boston Housing Prices
+## Pedicting Boston Housing Prices
 
 ## Project Description
 
