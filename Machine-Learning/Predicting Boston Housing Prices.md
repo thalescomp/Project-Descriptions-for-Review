@@ -1,65 +1,81 @@
-#Project 1: Model Evaluation & Validation
-##Predicting Boston Housing Prices
+# Project 1: Model Evaluation and Validation
+# Predicting Boston Housing Prices
 
-**Project Description:**
+## Project Description
 
-You want to be the best real estate agent out there. In order to compete with other agents in your area, you decide to use Machine Learning. You are going to use various statistical analysis tools to build the best model to predict the value of a given house. Your task is to find the best price your client can sell their house at. The best guess from a model is one that best generalizes the data.
-                
-For this assignment your client has a house with the following feature set: [11.95, 0.00, 18.100, 0, 0.6590, 5.6090, 90.00, 1.385, 24, 680.0, 20.20, 332.09, 12.13]. To get started, use the example sci­kit implementation. You will have to modify the code slightly to get the file up and running.
+The Boston housing market is highly competitive, and you want to be the best real estate agent in the area. To compete with your peers, you decide to leverage a few basic machine learning concepts to assist you and a client with finding the best selling price for their home. Luckily, you?ve come across the Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. Your task is to build an optimal model based on a statistical analysis with the tools available. This model will then used to estimate the best selling price for your client?s home.
+				
+For this assignment, download the (machine learning projects)[https://github.com/udacity/machine-learning] repo and navigate to the `boston_housing.ipynb` file in the *Predicting Boston Housing Prices* folder. While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. You can find the included questions for reference below. Unless requested, do not modify code that has already been included.
 
-When you are done implementing the code please answer the following questions in a report with the appropriate sections provided.
-## Language and libraries
+## Software and Libraries
+For this project, you will need to have the following software and Python libraries installed:
 
-For this project, you will need to have the following software installed:
-
-- [Python 2.7](https://www.python.org/download/releases/2.7/)
-- [NumPy](http://www.numpy.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-
-## Template code
-
-Download [boston\_housing.zip](https://s3.amazonaws.com/content.udacity-data.com/courses/nd009/projects/boston_housing.zip), unzip it and open the `boston_housing.py` template file. Follow the instructions to complete each step, and answer the questions in your report.
+- Python 2.7
+- NumPy
+- scikit-learn
+- iPython Notebook
 
 ## Deliverables
+The following files should be included as your submission, and can be packaged as a single zip file for convenience:
+- The `boston_housing.ipynb` file with fully implemented, functional code, with all code blocks executed and showing output.
+- A PDF report of the project (you may either save the notebook as a PDF with your answers, or submit a separate document with only the questions and your answers).
 
-- Report in PDF format
-- Fully implemented Boston Housing Python code as `boston_housing.py`
+## Project Report Questions
+A description of the Boston Housing dataset can be found (here)[https://archive.ics.uci.edu/ml/datasets/Housing]. Use this section as reference to the project questions you will encounter in the notebook. These questions (and your answers) must be present in your included PDF report.
 
-You can package these two files as a single zip and submit it.
+### Statistical Analysis and Data Exploration
+*This question is integrated into the project notebook output.*  
+Using the NumPy library, calculate a few meaningful statistics about the dataset:
 
-## Questions and Report Structure
+- How many data points (houses) were collected?
+- How many features are present for each house?
+- What is the minimum housing price? The maximum?
+- What is the mean housing price? The median?
+- What is the standard deviation of all housing prices?
 
-### 1) Statistical Analysis and Data Exploration
+1) Of the available features for a given home, choose three you feel are significant and give a brief description for each of what they measure. 
 
-- Number of data points (houses)?
-- Number of features?
-- Minimum and maximum housing prices?
-- Mean and median Boston housing prices?
-- Standard deviation?
+2) Using your client's feature set `CLIENT_FEATURES` in the template code, which values correspond to the chosen features?
 
-### 2) Evaluating Model Performance
-- Which measure of model performance is best to use for predicting Boston housing data and analyzing the errors? Why do you think this measurement most appropriate? Why might the other measures not be appropriate here?
-- Why is it important to split the Boston housing data into training and testing data? What happens if you do not do this?
-- What does grid search do and why might you want to use it?
-- Why is cross validation useful and why might we use it with grid search?
+### Evaluating Model Performance
+3) Why do we split the data into training and testing subsets? 
 
-### 3) Analyzing Model Performance
-- Look at all learning curve graphs provided. What is the general trend of training and testing error as training size increases?
-- Look at the learning curves for the decision tree regressor with max depth 1 and 10 (first and last learning curve graphs). When the model is fully trained does it suffer from either high bias/underfitting or high variance/overfitting?
-- Look at the model complexity graph. How do the training and test error relate to increasing model complexity? Based on this relationship, which model (max depth) best generalizes the dataset and why?
+4) Which performance metric below is most appropriate for predicting housing prices and analyzing error? Why?
 
-### 4) Model Prediction
-- Model makes predicted housing price with detailed model parameters (max depth) reported using grid search. Note due to the small randomization of the code it is recommended to run the program several times to identify the most common/reasonable price/model complexity
-- Compare prediction to earlier statistics and make a case if you think it is a valid model.
+- Accuracy
+- Precision
+- Recall
+- F1 score
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
 
-### Evaluation
+5) What is the grid search algorithm and when is it applicable?
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1oT53-kMhiarkHvAbL0e-dXA_gsXTxjPn_fuO_5yyDYk/pub" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+6) What is cross-validation and how is it performed on a model? Why would cross-validation be helpful when using grid search?
 
-### Submission
+### Analyzing Model Performance
+7) Choose one of the learning curve graphs your code creates. What is the max depth for the model? As the size of the training set increases, what happens to the training error? Describe what happens to the testing error.
+
+8) Look at the learning curve graphs for the model with a max depth of 1 and a max depth of 10. When the model is using the full training set, does it suffer from high bias or high variance when the max depth is 1? What about when the max depth is 10?
+
+9) From the model complexity graph, describe the training and testing errors as the max depth increases. Based on your interpretation of the graph, which max depth results in a model that best generalizes the dataset? Why?
+
+### Model Prediction
+*To answer the following questions, it is recommended that you run your notebook several times and use the median or mean value as your result.*
+
+10) Using grid search, what is the optimal max depth for your model? How does this result compare to your initial intuition?
+
+11) With your parameter-tuned model, what is the best selling price for your client?s home? How does this selling price compare to the statistics you calculated on the dataset? 
+
+12) In a few sentences, discuss whether you would use this model or not to predict the selling price of future clients? homes in the Boston area.
+
+## Evaluation
+Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1b3u3HV2xMBAH7SQxdMPzr2QUaBJU8oeiCNdNh3AWLVY/pub?embedded=true" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+
+## Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 1, and we'll walk you through the rest of the submission process.
 
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **project@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
 
-### What's Next?
+## What's Next?
 You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
