@@ -9,7 +9,7 @@ Students will be taking notes in HTML of the content they have learned in [Stage
 
 ## Project Description
 
-Students are expected to take notes from the mentioned lesson above and will be exposed to basic HTML tags such as `<div>, <h1>, <p>, <b>, <em>, <span>` and basic CSS rules.
+Students are expected to take notes from the mentioned lesson above and will be exposed to basic HTML tags such as `<div>, <h1>, <p>, <b>, <em>, <span>, <img>` and basic CSS rules.
 
 The reviewer is expected to read students’ notes and add any clarification or commentary on their notes, this includes answering any questions the students have.
 
@@ -33,20 +33,11 @@ Reviewers will read the code and provide feedback on:
 
 ### 2 - Content Review
 
-Reviewer will also read notes to help ensure students have a good understanding of the most important concepts covered so far. The student must be explicit and specific in their notes. Reviewer should not pass a rubric criteria if the notes are not clear or not detailed enough to demonstrate a student's understanding of:
-
-* **Understanding of Structured Documents**: Notes should demonstrate an understanding of what it means for computer code to be "structured."
-
-  * The student needs to talk about the Document Object Model (DOM) and how the HTML elements can be organized in a “tree-like” structure where one element can contain other elements and how a programmer can traverse the DOM tree to navigate to any element in the DOM.
-
-* **Learning Resources**: Notes include at least 1 link to programming resources (Udacity Forums, Stack Overflow, Mozilla Developer Network for example)
-
-
-* **Basic HTML and CSS knowledge**: Reviewer won't be looking for anything specific in this area, but will be providing general feedback about these two languages.
+Students are expected to create a webpage of their own which includes some text and an image at the minimum. Please encourage students to try and create a more in-depth webpage of something that interests them, but this is not required to pass.
 
 The rubric that will be used is included below:
 
-![rubric](http://i.imgur.com/aVLvTOL.png)
+![rubric](http://i.imgur.com/lMuBxWu.png)
 
 ## Watch Outs
 
