@@ -79,7 +79,7 @@ The Student Answer should have these answers with explanations:
     <!--Your Answer to question 5 goes here-->
     <div class= "answer">
       <p>Data Analyst<p>
-      <p>Students' explanation</p>
+      <p>Student's explanation</p>
     </div>
 
     <!-- Question 6-->
