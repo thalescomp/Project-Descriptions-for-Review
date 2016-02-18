@@ -11,6 +11,15 @@ Students will develop a database schema to store the game matches between player
 
 For complete project details, make sure you check out <a href="https://www.udacity.com/course/viewer#!/c-ud197/l-3521918727/m-3554068605" target="_blank">Lesson 5</a> of the Intro to Relational Databases course, including the <a href="https://www.udacity.com/course/viewer#!/c-ud197/l-3521918727/m-3519689284" target="_blank">Project Description</a>.
 
+## UPDATE: 1-26-16 - New Test Suite
+
+The test suite in the tournament folder of the VM ('tournament_test.py') has been modified and expanded.
+In addition to the previous functionality, the new tests should catch:
+
+1. Ensure that deletePlayers() and deleteMatches() function independently.
+2. Ensure that deleteMatches() resets the player standings (no wins/matches for any player)
+3. Ensure that swissPairings() returns correct pairings both before and after match reporting, and work properly for eight players as well as four.
+
 ## Things to watch out for
 
 The rubric specifies that the code "makes use of query parameters appropriately to protect against SQL injection attacks."
