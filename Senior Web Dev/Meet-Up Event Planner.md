@@ -34,5 +34,4 @@ _You do not need to create a functioning back-end or save user information. Only
 
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
-![Rubric Part 1](http://i.imgur.com/lVTN4Aw.png)
-![Rubric Part 2](http://i.imgur.com/ZeLdErg.png)
+![Rubric](http://i.imgur.com/dzRdeYr.png)
