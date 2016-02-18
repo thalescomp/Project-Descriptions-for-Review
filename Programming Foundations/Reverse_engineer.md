@@ -1,6 +1,6 @@
 # Reverse Engineering Project Specification for Reviewers
 
-This project involves students analyzing the Project Compass Web app.
+This project involves students analyzing the Project Compass Web app: http://www.project-compass.appspot.com/
 
 They will take lessons that involve learning concepts about:
 
@@ -19,7 +19,9 @@ Reviewer Instructions for Stage 5
 
 The file you receive from students, when unzipped, should contain a file called answers.html
 
-The top of the file should look something like this:
+To view it in the context of the Project Compass webapp, you can download the addtional files here: https://www.udacity.com/api/nodes/6821598638/supplemental_media/p4-project-compasszip/download
+
+The top of the student's file should look something like this:
 
 ```
 <!DOCTYPE html>
