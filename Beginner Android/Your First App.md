@@ -22,7 +22,7 @@ Note: Be sure to check with the business for permission to use their name and de
 
 
 ##Why this project?
-This project is a way for students to demonstrate the concepts they learned in the Developing Android Apps course by building out the design
+This project is a way for students to demonstrate the concepts they learned in the Developing Android Apps course by building out the design.
 
 ##What will students learn?
 Students will learn how to:
@@ -30,7 +30,7 @@ Students will learn how to:
 
 ##How do students complete this project?
 1. Complete the <a href="https://www.udacity.com/course/viewer#!/c-ud747-nd/l-6786851376/m-6709789083">Beginning Android Development course</a>.
-2. Students will create an open-ended project following the Project Description and Rubric shown <a href="https://docs.google.com/document/d/1aEHuz4EFmhMSjQi7ER6KnL6LGAf07QzWfqMzegMZPNQ/pub"> here</a>
+2. Students will create an open-ended project following the Project Description and Rubric shown <a href="https://docs.google.com/document/d/1aEHuz4EFmhMSjQi7ER6KnL6LGAf07QzWfqMzegMZPNQ/pub">here</a>.
 3. The project must:
  * Import and build on the latest version of Android Studio (Eclipse users take note)
  * Be entirely self-contained on an Android device (No external devices/bluetooth peripherals).
