@@ -1,6 +1,6 @@
 # For Reviewers
 ## How Grading Works
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Neighborhood Map - Best Practices](https://docs.google.com/document/d/1mjKTn6fSpiN-vk5RF-SCeSJDEPMS0ifmjsCaiH77VlE/pub)
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Neighborhood Map - Best Practices](https://docs.google.com/document/d/1E0OEWmQI4ck96xkiSf2-X2x-9pTJ8_k8PXi_q4re310/pub)
 
 It is VERY IMPORTANT that you read this document before you begin evaluating projects. To meet specifications, every review of the project must follow these guidelines.
 
