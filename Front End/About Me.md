@@ -1,6 +1,6 @@
 ## For Reviewers
 ### How Grading Works
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [About Me - Best Practices](https://docs.google.com/document/d/1-Iapz49Mwj2L7DCuGBOimiioZFoMl9XjvdHAVwWKuQQ/pub?embedded=true)
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [About Me - Best Practices](https://docs.google.com/document/d/1e9fsgV46AflUxCIqSsQm9dA7WoB9LN1AnLAkB7-Bs8o/pub)
 
 The difficulty level of this project is intentionally very low and the intent is not to challenge the student but to ensure they have a positive experience and are comfortable with the project submission and feedback process. When providing feedback on this project, ensure that feedback is friendly and encouraging in tone.
 

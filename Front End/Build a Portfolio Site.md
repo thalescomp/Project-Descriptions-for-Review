@@ -2,7 +2,7 @@
 
 ## How Grading Works
 
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Build a Portfolio Site - Best Practices](https://docs.google.com/document/d/1TMTRhrm7Boz1uic9Ji5zfhu-QtimaxVMKqPdVldr-8A/pub)
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Build a Portfolio Site - Best Practices](https://docs.google.com/document/d/15msptairZjpk0S_u0lJiN3L-_GSTXRZwtrq9tvq5RKc/pub)
 
 It is VERY IMPORTANT that you read this document before you begin evaluating projects. Every review must follow the guidelines in this document.
 

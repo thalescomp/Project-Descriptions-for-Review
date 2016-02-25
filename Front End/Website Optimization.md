@@ -1,7 +1,7 @@
 
 # For Reviewer
 ## How Grading Works
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Website Performance Optimization - Best Practices](https://docs.google.com/document/d/1wcXOrjbmFameFtAKlwmxrfvS990M6WltWhos3sRpy4M/pub)
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Website Performance Optimization - Best Practices](https://docs.google.com/document/d/1-Ir6Io9wzmULKn9ldaeFohB0aMMvCWybXdbQWNHLUUs/pub)
 
 It is VERY IMPORTANT that you read this document before you begin evaluating projects. In order to meet specifications every review must follow the guidelines given in the document.
 

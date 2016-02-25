@@ -1,6 +1,6 @@
 ## How Grading Works
 
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Classic Arcade Game Clone - Best Practices](https://docs.google.com/document/d/1sYjy4Swrppc6OreRy6zWQFKNnJhu1pJ9uikZPSD0HMc/pub)
+We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Classic Arcade Game Clone - Best Practices](https://docs.google.com/document/d/1M5P4znZYs6wqOKx10M9njA5az0h6ctqogs83zk9SV2c/pub)
 
 It is VERY IMPORTANT that you read this document before you begin evaluating projects. Every review must follow the guidelines in this document.
 
