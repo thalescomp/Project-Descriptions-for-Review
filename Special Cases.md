@@ -15,3 +15,6 @@ https://review.udacity.com/#!/projects/83/start
 
 **Create a Movie Website** (Stage 3):
 https://review.udacity.com/#!/projects/79/start
+
+**Allow Comments** (Stage 4):
+https://review.udacity.com/#!/projects/11/start
