@@ -26,7 +26,7 @@ Please send the following information to review-support@udacity.com.
   * Please tell the student what the issue is.
   * If you are unable to figure out the issue, please be honest with the student. Request the student to reach out to a coach and contact us at review-support@udacity.com.
 * If the project was submitted according to an outdated rubric:
-  * Be sure to include an explanation and the appropriate alternative submission link from the _Special Cases.md_ document.
+  * Be sure to include an explanation and the appropriate alternative submission link from the [_Special Cases.md_](https://github.com/udacity/Project-Descriptions-for-Review/blob/master/Special%20Cases.md) document.
 
 ### What should I do when reviewing a project?
 * **You must download the project and run it on your machine.** Sometimes, the code review tab will not display every file. You must ensure that the files aren't missing by downloading the submission. 
