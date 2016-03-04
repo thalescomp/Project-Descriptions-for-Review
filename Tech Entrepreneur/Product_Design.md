@@ -9,7 +9,7 @@ Course materials can be found [here.](https://www.udacity.com/course/viewer#!/c-
 
 ## Project Description
 
-This project require students to design a product people will love. Students are expected to run a design sprint in order to quickly validate their idea with real customers. Students need to submit a writeup that contains:
+This project requires students to design a product people will love. Students are expected to run a design sprint in order to quickly validate their idea with real customers. Students need to submit a writeup that contains:
 
 * Product Idea Summary (max 100 words)
 * Design Sprint Deliverables (e.g., wireframes, mockups, or low-fidelity prototypes of their product idea)
