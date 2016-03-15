@@ -5,7 +5,9 @@ Marketing and Distribution Final Project Reviewer Guideline
 
 This project is the fourth project for Tech Entrepreneur students. Previous to this project the students should have refined their ideas through user research. Through the Marketing course, students should have learned more about the potential market for their idea. Please remember Tech Entrepreneur students come from a diverse background of varying writing and business skills. As such, please include thorough and detailed comments where applicable.
 
-Course materials can be found [here.]()
+Course materials can be found [here.](https://www.udacity.com/course/app-marketing--ud719)
+
+Direct submission can be found [here.](https://review.udacity.com/#!/projects/91/submit-file)
 
 ## Project Description
 
