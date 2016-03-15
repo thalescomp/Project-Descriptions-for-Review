@@ -7,6 +7,8 @@ This project is the first project for Tech Entrepreneur students. The Product De
 
 Course materials can be found [here.](https://www.udacity.com/course/viewer#!/c-ud509-nd)
 
+Direct submission can be found [here.](https://review.udacity.com/#!/projects/88/submit-file)
+
 ## Project Description
 
 This project requires students to design a product people will love. Students are expected to run a design sprint in order to quickly validate their idea with real customers. Students need to submit a writeup that contains:
