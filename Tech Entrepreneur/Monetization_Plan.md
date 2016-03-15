@@ -7,6 +7,8 @@ This project is the second project for Tech Entrepreneur students. Previous to t
 
 Course materials can be found [here.](https://www.udacity.com/course/viewer#!/c-ud518-nd)
 
+Direct submission can be found [here.](https://review.udacity.com/#!/projects/89/submit-file)
+
 ## Project Description
 
 This project require students to come up with a plan to make money off their product. Students need to submit a writeup that contains:
