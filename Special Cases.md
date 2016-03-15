@@ -23,3 +23,17 @@ https://review.udacity.com/#!/projects/11/start
 
 **Brainstorm your Idea** (or also "Tell us your Idea") (Stage 0):
 https://review.udacity.com/#!/projects/88/submit-file
+
+**Validated Product Design** (Project 1):
+https://review.udacity.com/#!/projects/88/submit-file
+
+**Monetization Plan** (Project 2):
+https://review.udacity.com/#!/projects/89/submit-file
+
+**Interactive Prototyping** (Project 3):
+https://review.udacity.com/#!/projects/90/submit-file
+
+**Marketing and Distribution** (Project 4):
+https://review.udacity.com/#!/projects/91/submit-file
+
+
