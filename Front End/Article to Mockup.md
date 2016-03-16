@@ -6,7 +6,7 @@ You're going to see some formatting you haven't encountered before, so you'll ne
 
 See below the mockup for the article:
 
-[blog-mockup](http://lh3.googleusercontent.com/HlsVQhZFGef6DCXRWBVQ-TWvvx_WIBn44aZbQoLBQHcXCkNOpvboz_4gzmNLoEUvV4zH5X_7PXA_F-QR2vQ=s0#w=1199&h=1392)
+![blog-mockup](http://lh3.googleusercontent.com/HlsVQhZFGef6DCXRWBVQ-TWvvx_WIBn44aZbQoLBQHcXCkNOpvboz_4gzmNLoEUvV4zH5X_7PXA_F-QR2vQ=s0#w=1199&h=1392)
 
 ### Project Instructions
 
