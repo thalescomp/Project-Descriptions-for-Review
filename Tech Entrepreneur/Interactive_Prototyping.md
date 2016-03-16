@@ -5,7 +5,9 @@ Interactive Prototyping Final Project Reviewer Guideline
 
 This project is the third project for Tech Entrepreneur students. Previous to this project the students should have refined their ideas through user research. This course teaches students the importance of the prototyping process, specifically that consistent interaction with potential users will guide the design. Please remember Tech Entrepreneur students come from a diverse background of varying writing and business skills. As such, please include thorough and detailed comments where applicable.
 
-Course materials can be found [here.]()
+Course materials can be found [here.](https://www.udacity.com/course/rapid-prototyping--ud723)
+
+Direct submission can be found [here.](https://review.udacity.com/#!/projects/90/submit-file)
 
 ## Project Description
 
