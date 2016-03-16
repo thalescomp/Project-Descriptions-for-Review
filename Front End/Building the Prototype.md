@@ -25,4 +25,4 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 * Create a zip file containing `card.html` and your new animal image (unless you linked directly to the image).
 * Submit your project to be reviewed.
 
-Have fun and be creative 🐠 🐍 🐅 🐼 🐫! Writing CSS isn't an exact science, so feel free to experiment. Your submission should resemble the design prototype, but it's okay if it doesn't match exactly, so long as you satisfy all the requirements.
+Have fun and be creative 🐠 🐍 🐅 🐼 🐫 ! Writing CSS isn't an exact science, so feel free to experiment. Your submission should resemble the design prototype, but it's okay if it doesn't match exactly, so long as you satisfy all the requirements.
