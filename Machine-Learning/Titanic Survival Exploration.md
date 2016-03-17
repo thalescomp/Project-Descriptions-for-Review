@@ -17,7 +17,7 @@ This project uses the following software and Python libraries:
 If you already have Python 2.7 installed on your computer, then you can install NumPy scikit-learn, and iPython Notebook by using [pip](https://pip.pypa.io/en/stable/) on the command line. [This page](http://www.lfd.uci.edu/~gohlke/pythonlibs/) may also be of use for some packages for Windows users, if pip has trouble performing the installation. If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
 
 ## Starting the Project
-You can download the .zip archive containing the necessary project files from the **Downloadables** section below. This archive contains three files:
+You can download the .zip archive containing the necessary project files from Udacity's Machine Learning Github project repository [here](https://github.com/udacity/machine-learning). The project can be found under **projects** -> **titanic_survival_exploration**. This archive contains three files:
 
 - `Titanic_Survival_Exploration.ipynb`: This is the main file where you will be performing your work on the project.
 - `titanic_data.csv`: The project dataset. You’ll load this data in the notebook.
