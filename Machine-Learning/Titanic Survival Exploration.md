@@ -1,7 +1,5 @@
-# Machine Learning Engineer Nanodegree
-# P0: Titanic Survival Exploration (Optional)
-
-# Project Overview and Software
+# Project 0: Introduction and Fundamentals
+## Titanic Survival Exploration (Optional)
 ## Project Overview
 In this project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
 
@@ -18,7 +16,6 @@ This project uses the following software and Python libraries:
 
 If you already have Python 2.7 installed on your computer, then you can install NumPy scikit-learn, and iPython Notebook by using [pip](https://pip.pypa.io/en/stable/) on the command line. [This page](http://www.lfd.uci.edu/~gohlke/pythonlibs/) may also be of use for some packages for Windows users, if pip has trouble performing the installation. If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
 
-# Starting the Project and Deliverables
 ## Starting the Project
 You can download the .zip archive containing the necessary project files from the **Downloadables** section below. This archive contains three files:
 
@@ -36,7 +33,7 @@ You should submit the following files as your submission, packaged in a single .
 - Completed `Titanic_Survival_Exploration.ipynb` notebook with answers on all questions and cells run successfully with output.
 - HTML export of the notebook. Instructions for export are at the bottom of the notebook; you may need to install the [mistune](https://pypi.python.org/pypi/mistune) package first, e.g. via `pip install mistune` in the terminal.
 
-# Evaluation & Submission
+## Evaluation & Submission
 ### Evaluation
 Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1NMOgsa-53fmXjZDJ_v9OfDrkrsPYdijFKB1iAA1HAIs/pub?embedded=true" target="_blank">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
