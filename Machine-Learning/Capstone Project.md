@@ -33,7 +33,7 @@ The following files should be included in your submission, and can be packaged a
 
 ### Evaluation
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1Wxa-kLCKFkUEJBTWLFTvVbuwq2j5mj7TCYnxmFXiEQg/pub?embedded=true" target="_blank">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1Wxa-kLCKFkUEJBTWLFTvVbuwq2j5mj7TCYnxmFXiEQg/pub?embedded=true">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 5, and we'll walk you through the rest of the submission process.
