@@ -4,6 +4,10 @@ Hey there, web developer! Congratulations on making it this far! Here's your nex
 
 You're going to see some formatting you haven't encountered before, so you'll need to use a resource, like the [MDN element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), to research new elements.
 
+See below the mockup for the article:
+
+![blog-mockup](http://lh3.googleusercontent.com/HlsVQhZFGef6DCXRWBVQ-TWvvx_WIBn44aZbQoLBQHcXCkNOpvboz_4gzmNLoEUvV4zH5X_7PXA_F-QR2vQ=s0#w=1199&h=1392)
+
 ### Project Instructions
 
 0. Download and unzip `mockup-to-html.zip` from the downloadables section. You'll find `article.html`, the article mockup image and a file called `reflections.txt` inside.
