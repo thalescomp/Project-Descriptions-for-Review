@@ -4,20 +4,20 @@ Great job on finishing the problem set! Are you starting to feel like a web deve
 
 Before you move on, I have one more challenge. I want you to use what you've learned up to this point to complete the following project. Simply titled, "Building the Prototype", this project combines the skills you mastered in the problem set and asks you to recreate a webpage from a design prototype.
 
-This is a common workflow for front-end web developers. Typically, you'll be provided with a design protoype that needs to be translated to an actual, functional website. In most cases, designers **ONLY** provide you with the design prototype. However, for this project, I've provided you with the design prototype and the HTML. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a Disney animated film.
+This is a common workflow for front-end web developers. Typically, you'll be provided with a design prototype that needs to be translated to an actual, functional website. In most cases, designers **ONLY** provide you with the design prototype. However, for this project, I've provided you with the design prototype and the HTML. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a Disney animated film.
 
 ### Project Instructions
 
-0. Download and unzip `building-the-prototype.zip` from the downloadables section. Inside, you'll find `card.html` (the HTML), `clownfish.jpg`, and the design prototype.
-1. To complete the project, open `card.html` and add the proper CSS to recreate the design prototype. You'll need to modify the HTML to include attributes and use class selectors to specify the elements you want to style.
-2. The card should at least include:
-    - a border around the animal's name, image, and details
-    - a border around the animal's details
-    - spacing between the animal's name, image, and details (you will need to the property padding, [read more about it here](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
-    - bolded labels for animal notes (e.g. 'Habitat')
-    - italicized text for interesting fact about animal
+0. Download and unzip `building-the-prototype.zip` from the downloadables section. Inside, you'll find `card.html` (the HTML), `clownfish.jpg`, and the `design-prototype.pdf` (the design prototype).
+1. To complete the project, open `card.html` in your text editor and add the proper CSS to recreate the design prototype. You'll need to modify the HTML to include class attributes and use selectors to specify the elements you want to style.
+2. The CSS should include at least:
     - the use of Roboto font
-3. When you're done matching the HTML and CSS to the design prototype, swap in a picture and description of your favorite animal.
+    - the use of italicized text for the animal's interesting fact
+    - the use of bolded labels for the animal's list items (e.g. 'Habitat')
+    - a border around the animal's name, image, and information
+    - a border around the animal's information
+    - spacing between the animal's name, image, and information (you will need to use the property [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding))
+3. When you're done matching your webpage to the design prototype, swap in an image and information for your favorite animal. For the image, you will want use an image with a `width` of 300 pixels or set the image's width to 300 pixels in your CSS. Also, don't forget to change the image's `alt` attribute to the name of your animal. So, `alt="clownfish"` should be replaced with `alt="name-of-your-animal"`. 
 
 ### Project Submission
 
