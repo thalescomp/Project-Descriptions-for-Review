@@ -8,10 +8,9 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 
 ### Project Instructions
 
-0. Download and unzip `building-the-prototype.zip` from the downloadables section. Inside, you'll find `card.html` (the HTML), `clownfish.jpg`, and the `design-prototype.pdf` (the design prototype).
-1. To complete the project, open `card.html` in your text editor and add the proper CSS to recreate the design prototype. You'll need to modify the HTML to include class attributes and use selectors to specify the elements you want to style.
+0. Download and unzip `building-the-prototype.zip` from the downloadables section. Inside, you'll find `card.html`, `styles.css`, `clownfish.jpg`, and the `design-prototype.pdf`.
+1. To complete the project, add the proper CSS to `styles.css` to recreate the design prototype. Also, modify `card.html` to include class attributes and use selectors to specify the elements you want to style. Make sure to link to your stylesheet in `card.html` or else your CSS will not be applied to your webpage.
 2. The CSS should include at least:
-    - the use of Roboto font
     - the use of italicized text for the animal's interesting fact
     - the use of bolded labels for the animal's list items (e.g. 'Habitat')
     - a border around the animal's name, image, and information
@@ -22,7 +21,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 ### Project Submission
 
 * Once your satisfied with your result, check your project against the [rubric](https://docs.google.com/document/d/1ijBxKqQ46zixDbHm4rGXKHOGR0Km-KXvjFmlYZsa9HE/pub) to make sure you've satisfied all requirements.
-* Create a zip file containing `card.html` and your new animal image (unless you linked directly to the image).
+* Create a zip file containing `card.html`, `styles.css`, and your new animal image (unless you've linked directly to the image).
 * Submit your project to be reviewed.
 
 Have fun and be creative 🐠 🐍 🐅 🐼 🐫 ! Writing CSS isn't an exact science, so feel free to experiment. Your submission should resemble the design prototype, but it's okay if it doesn't match exactly, so long as you satisfy all the requirements.
