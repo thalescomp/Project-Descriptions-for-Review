@@ -21,7 +21,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 ### Project Submission
 
 * Once your satisfied with your result, check your project against the [rubric](https://docs.google.com/document/d/1ijBxKqQ46zixDbHm4rGXKHOGR0Km-KXvjFmlYZsa9HE/pub) to make sure you've satisfied all requirements.
-* Create a zip file containing `card.html` and your new animal image (unless you linked to an image hosted online).
+* Create a zip file containing `card.html`, `styles.css`, and your new animal image (unless you linked to an image hosted online).
 * Submit your project to be reviewed.
 
 Have fun and be creative 🐠 🐍 🐅 🐼 🐫 ! Writing CSS isn't an exact science, so feel free to experiment. For example, you might want to add rounded corners or a background color to your card. Your submission should resemble the design prototype, but it's okay if it doesn't match exactly, so long as you satisfy all the requirements.
