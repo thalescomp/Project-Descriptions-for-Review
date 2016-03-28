@@ -1,5 +1,6 @@
+# Project 2: Supervised Learning
 ## Building a Student Intervention System
-
+## Project Overview
 As education has grown to rely more and more on technology, more and more data is available for examination and prediction. Logs of student activities, grades, interactions with teachers and fellow students, and more are now captured through learning management systems like Canvas and Edmodo and available in real time. This is especially true for online classrooms, which are becoming more and more popular even at the middle and high school levels.
 
 Within all levels of education, there exists a push to help increase the likelihood of student success without watering down the education or engaging in behaviors that raise the likelihood of passing metrics without improving the actual underlying learning. Graduation rates are often the criteria of choice for this, and educators and administrators are after new ways to predict success and failure early enough to stage effective interventions, as well as to identify the effectiveness of different interventions.
@@ -73,7 +74,7 @@ What is the model’s final F1 score?
 
 ### Evaluation
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1eyMT5SkhK4qiiFfTz1TrSnSqkV9gbH8g0Jfh3kW6apI/pub" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5446988865/rubric" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 2, and we'll walk you through the rest of the submission process.
