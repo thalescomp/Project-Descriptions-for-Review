@@ -1,4 +1,4 @@
-# P5: Machine Learning Capstone Project
+# Project 5: Capstone Project
 ## Capstone Project Overview
 In this capstone project, you will leverage what you’ve learned throughout the Nanodegree program to solve a problem of your choice by applying machine learning algorithms and techniques. You will first **define** the problem you want to solve and investigate potential solutions and performance metrics. Next, you will **analyze** the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it. You will then **implement** your algorithms and metrics of choice, documenting the preprocessing, refinement, and postprocessing steps along the way. Afterwards, you will collect **results** about the performance of the models used, visualize significant quantities, and validate/justify these values. Finally, you will construct **conclusions** about your results, and discuss whether your implementation adequately solves the problem.
 
@@ -32,7 +32,7 @@ The following files should be included in your submission, and can be packaged a
 
 ### Evaluation
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1Wxa-kLCKFkUEJBTWLFTvVbuwq2j5mj7TCYnxmFXiEQg/pub?embedded=true">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5420178917/rubric">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 5, and we'll walk you through the rest of the submission process.
