@@ -1,8 +1,36 @@
-Students will build a blog where multiple users can sign in and make posts. 
-## How will students complete this project? 
-1. Install [Python](https://www.python.org/) 
-2. Work through the lessons in the course.
-3. At the end of the <TODO attach course link>course you will have a published blog without certain functionalities which are the 'Like', 'Edit' and 'Comment' functionality.
-   Users once signed in, should be able to edit their blog post as well as like and comment on other posts. Signed in users should also be able to edit their comments. 
-   Users should not be able to like their own post and can only like other posts once.
-5. Ensure your website renders correctly when you attempt to load it in a browser. 
+# Multi-User Blog: Project Overview
+
+A basic blog application, written in Python.
+
+---
+
+### How do I complete this project? 
+
+1. Install and configure [Python](https://www.python.org/) on your computer.
+2. Work through the lessons in the [associated course](#TODO).
+3. By the end of the course, you'll have a functional but incomplete blog application. You're tasked with making the following changes to it:
+    * Users should be able to edit their posts
+    * Users can "like" posts, but only once and not their own
+    * Users can comment on posts and edit their comments
+4. Double-check that your project meets our [rubric specifications](#TODO).
+5. [Submit it](#TODO)!
+
+### Things to look out for
+
+* Always be sure to store passwords securely.
+* Watch out for the evils of [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting#Safely_validating_untrusted_HTML_input)!
+* When you're making changes to your blog app, you might have to clear [App Engine's cache](https://cloud.google.com/appengine/docs/python/console/#memcache) now and then.
+
+### Making your app stand out
+
+There are a bunch of ways to improve your blog once the basic features are implemented! Consider: 
+
+1. Styling your blog using CSS, and play around with a framework like [Bootstrap](http://getbootstrap.com) or [Skeleton](http://getskeleton.com).
+2. Make your blog grab profile pictures for users via their [Gravatar email](https://en.gravatar.com/site/implement/).
+3. Consider extra features, such as a "dislike" button or tools for sharing posts to social media websites!
+
+### TODO
+
+* Fill in link for the course
+* Fill in link for rubric
+* Fill in link for submission form
