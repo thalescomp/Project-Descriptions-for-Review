@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/6790468080/rubric)
+
 Project Instructions:
 1. Write a letter to your future self using what you’ve learned.How will you solve your problem? What skills do you have now that will help you tackle challenges? How will what you’ve learned about having a growth mindset help you reach your goals?
   * Optional: Consider writing your letter using basic markdown syntax, a key skill that front-end developers use to write readmes. For more on markdown, [check out this guide](https://guides.github.com/features/mastering-markdown/).

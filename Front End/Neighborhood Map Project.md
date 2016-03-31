@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
+
 # For Reviewers
 ## How Grading Works
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Neighborhood Map - Best Practices](https://docs.google.com/document/d/1E0OEWmQI4ck96xkiSf2-X2x-9pTJ8_k8PXi_q4re310/pub)
@@ -46,10 +48,9 @@ None of these are required, but they may be helpful.
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![r1](http://i.imgur.com/ATBMaeB.png)
-![r2](http://i.imgur.com/3kWRbXx.png)
-![r3](http://i.imgur.com/swb68mg.png)
-![r4](http://i.imgur.com/jAszyYo.png)
+
+#[Project Rubric](https://review.udacity.com/#!/projects/2711658591/rubric)
+
 
 ## Submission
 1. If build tools are used, submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.

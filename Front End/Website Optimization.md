@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/2735848561/rubric)
+
 
 # For Reviewer
 ## How Grading Works
@@ -47,7 +49,8 @@ You will learn about the critical rendering path, the process by which the brows
 #Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![rubric](http://lh3.googleusercontent.com/YdqajdYAgBLOO9tLBEZIPl8QFjnDjWBuB66VKOiaWJ-C7wUmdoukMuVC1vNEhV2HG230qCRx2VTj9Ax7BJSi=s0#w=970&h=669)
+
+#[Project Rubric](https://review.udacity.com/#!/projects/2735848561/rubric)
 
 ## Submission
 1. Submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.

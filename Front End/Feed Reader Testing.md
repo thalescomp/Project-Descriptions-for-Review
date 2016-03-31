@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
+
 # For Reviewer
 ## How Grading Works
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Feed Reader Testing - Best Practices](https://docs.google.com/document/d/1cnNhclTpGAs0bpE9oJ5gDCgMmzniXvqX6k8zcKVJEhU/pub)
@@ -52,7 +54,8 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![rubric](http://lh3.googleusercontent.com/Hu_sjapTGkLNiPBFemZlNVJ5mac3ha4NBY1H4AODKM8zoOXXNFiF-xe5NadIu6kGOm4h8R3eGiiAqErH7To=s0#w=962&h=697)
+
+#[Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
 ## Submission
 1. If build tools are used, submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.

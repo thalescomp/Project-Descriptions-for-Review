@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/2962818615/rubric)
+
 # For Reviewers
 ## How Grading Works
 
@@ -138,7 +140,7 @@ Your project will be evaluated by a Udacity reviewer according to the rubric bel
 
 ## Online Resume Project Rubric
 
-![](http://lh3.googleusercontent.com/CXo8RIm8mSeea4cSs0uAxrVuoyRN6w5YGLZzVyNfZtzy7IGX_bV5a9oRNBrdZkgJGyBcueaB7DXojFv4lQ=s0#w=874&h=638)
+#[Project Rubric](https://review.udacity.com/#!/projects/2962818615/rubric)
 
 ## Submission
 1. The master branch is the default Github repository branch. If you wish to submit another branch, you'll need to set it as the new default branch inside your Github repository.

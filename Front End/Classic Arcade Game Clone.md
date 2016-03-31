@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/2696458597/rubric)
+
 ## How Grading Works
 
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Classic Arcade Game Clone - Best Practices](https://docs.google.com/document/d/1M5P4znZYs6wqOKx10M9njA5az0h6ctqogs83zk9SV2c/pub)
@@ -21,7 +23,8 @@ It is VERY IMPORTANT that you read this document before you begin evaluating pro
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![rubric1](http://lh3.googleusercontent.com/OdKVKhSwOR1hi9KdNsL0e24va_omApWZCWVyEo03wcR4vZTQscAGBb8aBEQXNukLwZS5SLk3i6GQjF9ZIOBH=s0#w=972&h=618)
+
+#[Project Rubric](https://review.udacity.com/#!/projects/2696458597/rubric)
 
 ## Submission
 1. The master branch is the default Github repository branch. If you wish to submit another branch, you'll need to set it as the [new default branch](https://help.github.com/articles/setting-the-default-branch/) inside your Github repository.

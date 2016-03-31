@@ -1,3 +1,5 @@
+##[Project Rubric](https://review.udacity.com/#!/projects/5030258562/rubric)
+
 # For Reviewer
 ## How Grading Works
 We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Health Tracker - Best Practices](https://docs.google.com/document/d/1RewU2A88u9AWJ-y70FJl-4bPxAUhTPBp8iUPvM5HoQM/pub)
@@ -81,9 +83,8 @@ So there's an exploration of this error, what's happening, and one way to get ar
 # Evaluation and Submission
 ## Evaluation
 Your project will be evaluated by a Udacity reviewer according to the rubric below. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass. 
-![r1](http://lh3.googleusercontent.com/XyLX2uR5LpM1z3Zn2Z0euSJbckZlEH-VbRdus2ZSgdxOSmsoCdSuH4hBThEwe1bSbtcM0V8qUEkz-C4hNyM=s0#w=1924&h=868)
-![r2](http://lh3.googleusercontent.com/waZ8hYB7e6DL0qMBoxn9ML74M1Fdrvn57m48zdrvo7cnFIAFSNZkAcEJ09iHUTgGyMx6M8-UhtKlojsl_-M=s0#w=1924&h=1030)
-![r3](http://lh3.googleusercontent.com/iz2C7lzgAGqOZ69u4g9A7kvyRfIGselrkNiAGvdNnJRa9zxHITIhuCJzOiuUHeoss8rNakum_D99MmkARg=s0#w=1924&h=722)
+
+#[Project Rubric](https://review.udacity.com/#!/projects/5030258562/rubric)
 
 ## Submission
 1. If build tools are used, submit both your source and production code in the same repository in separate directories.  These directories are usually named ```src``` and ```dist``` respectively.
