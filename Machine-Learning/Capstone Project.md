@@ -1,5 +1,4 @@
-# Machine Learning Capstone Project
-## Reviewer Guidelines [here](https://docs.google.com/document/d/19YCLNWwgGWLpFmkb_asBJPDg6oeBIwcETbTe5F5sn-c/pub?embedded=true)
+# Project 5: Capstone Project
 ## Capstone Project Overview
 In this capstone project, you will leverage what you’ve learned throughout the Nanodegree program to solve a problem of your choice by applying machine learning algorithms and techniques. You will first **define** the problem you want to solve and investigate potential solutions and performance metrics. Next, you will **analyze** the problem through visualizations and data exploration to have a better understanding of what algorithms and features are appropriate for solving it. You will then **implement** your algorithms and metrics of choice, documenting the preprocessing, refinement, and postprocessing steps along the way. Afterwards, you will collect **results** about the performance of the models used, visualize significant quantities, and validate/justify these values. Finally, you will construct **conclusions** about your results, and discuss whether your implementation adequately solves the problem.
 
@@ -16,7 +15,7 @@ Things you will learn by completing this project:
 ## Capstone Project Description
 Think about a problem domain that you are passionate about, such as healthcare, engineering, finance, robotics, marketing, bio-informatics, or something that excites you. Then, choose an existing problem within that domain which you could solve by applying machine learning algorithms and techniques. Be sure that you have collected all of the resources needed (such as data sets) to complete this project, and make the appropriate citations wherever necessary in your report.
 
-For whichever application area or problem you ultimately investigate, there are five major phases to this capstone project which you will document. Each phase plays a significant role in the development life cycle of beginning with a problem definition and finishing with a polished, working solution. As you make your way through developing your project, keep a mental checklist of these phases with the following questions provided, to ensure that each have been thoroughly documented and satisfy the requirements of the [capstone project rubric](https://docs.google.com/document/d/1Z2y5Kg4l6xKG_QRRukFYipDUqQc5gt9t6d1EBrE632U/pub?embedded=true).  
+For whichever application area or problem you ultimately investigate, there are five major phases to this capstone project which you will document. Each phase plays a significant role in the development life cycle of beginning with a problem definition and finishing with a polished, working solution. As you make your way through developing your project, keep a mental checklist of these phases with the following questions provided, to ensure that each have been thoroughly documented and satisfy the requirements of the [capstone project rubric](https://docs.google.com/document/d/1Wxa-kLCKFkUEJBTWLFTvVbuwq2j5mj7TCYnxmFXiEQg/pub?embedded=true).  
 
 You can find a [project report template here](https://docs.google.com/document/d/1B-vEOscvfqctGEMHTFDS9Nw7aqcE2iuwPRfp0jK8nf4/pub?embedded=true), which can serve as a guideline for writing your report. **Your submitted report should follow this general structure to streamline the evaluation process.**
 
@@ -33,7 +32,7 @@ The following files should be included in your submission, and can be packaged a
 
 ### Evaluation
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1Wxa-kLCKFkUEJBTWLFTvVbuwq2j5mj7TCYnxmFXiEQg/pub?embedded=true" target="_blank">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5420178917/rubric">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 5, and we'll walk you through the rest of the submission process.

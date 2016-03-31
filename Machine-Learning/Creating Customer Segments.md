@@ -58,7 +58,7 @@ Download [customer\_segments.zip](https://s3.amazonaws.com/content.udacity-data.
 
 ### Evaluation
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1oDUWc7ec3doE2bSG3nQ9IFvVYVpG55raLsQc0GrC4XQ/pub" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5422789357/rubric" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 3, and we'll walk you through the rest of the submission process.

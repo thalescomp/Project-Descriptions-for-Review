@@ -1,5 +1,6 @@
-## Train a Smartcab How to Drive
-
+# Project 4: Reinforcement Learning
+## Train a Smartcab to Drive
+## Project Overview
 A smartcab is a self-driving car from the not-so-distant future that ferries people from one arbitrary location to another. In this project, you will use reinforcement learning to train a smartcab how to drive.
 
 ### Environment
@@ -71,7 +72,7 @@ Apply the reinforcement learning techniques you have learnt, and tweak the param
 
 ### Evaluation
 
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1ifFWrkX-Kwhi2cKJJ_Qa0PYgPqWlJnBJK-cQGDbTvAY/pub" target="_blank">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5404058893/rubric" target="_blank">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 4, and we'll walk you through the rest of the submission process. You need to turn in your final code (`agent.py` only) and report as a PDF file.

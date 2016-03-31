@@ -1,5 +1,3 @@
-##[Project Rubric](https://review.udacity.com/#!/projects/7428479271/rubric)
-
 ### Project Overview
 
 Great job on finishing the problem set! Are you starting to feel like a web developer yet? You should!
@@ -23,7 +21,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 
 ### Project Submission
 
-* Once your satisfied with your result, check your project against the [rubric](https://review.udacity.com/#!/projects/7428479271/rubric) to make sure you've satisfied all requirements.
+* Once your satisfied with your result, check your project against the [rubric](https://docs.google.com/document/d/1ijBxKqQ46zixDbHm4rGXKHOGR0Km-KXvjFmlYZsa9HE/pub) to make sure you've satisfied all requirements.
 * Create a zip file containing `card.html` and your new animal image (unless you linked directly to the image).
 * Submit your project to be reviewed.
 

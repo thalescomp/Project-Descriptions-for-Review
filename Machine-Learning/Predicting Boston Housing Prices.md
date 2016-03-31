@@ -70,7 +70,7 @@ Using the NumPy library, calculate a few meaningful statistics about the dataset
 12) In a few sentences, discuss whether you would use this model or not to predict the selling price of future clients? homes in the Boston area.
 
 ## Evaluation
-Your project will be reviewed by a Udacity reviewer against **<a href="https://docs.google.com/document/d/1b3u3HV2xMBAH7SQxdMPzr2QUaBJU8oeiCNdNh3AWLVY/pub?embedded=true" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
+Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5415419142/rubric" target="_blank"> this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ## Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 1, and we'll walk you through the rest of the submission process.
