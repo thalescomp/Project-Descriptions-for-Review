@@ -19,7 +19,7 @@ Working with data from networked sources is as important to iOS development as c
 5. Create your app!
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/14oMyCKfI-NCnOoaR1h7pjqDWkaOTv0lyh9drhanqrJA/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://review.udacity.com/#!/projects/3071699113/rubric" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
 
 ##Submission
 ###Check your project for completion
