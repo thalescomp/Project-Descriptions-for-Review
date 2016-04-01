@@ -1,4 +1,4 @@
-# Monetize Your Game
+# Project 3: Monetize Your Game
 
 This is the third project in the 2D Mobile Game Developer Nanodegree.  Prepare for this project with the Udacity course Engagement and Monetization | Mobile Games.
 
@@ -69,3 +69,7 @@ Design a game icon, name, and keywords for your game display in an app store. Yo
     * What characteristics of this component will help make your game noticeable on an app distribution platform?
 
 As you design your game’s appearance on an app distribution platform consider the relevance, searchability, and uniqueness of each design.
+
+## Rubric
+
+The rubric can be viewed [here](https://review.udacity.com/#!/projects/5795548559/rubric).
