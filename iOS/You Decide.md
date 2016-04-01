@@ -31,4 +31,4 @@ Landing a job as an iOS Developer requires more than technical chops; it also re
 For detailed information on how your project will be assessed, continue to the next node.
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/1ahI-RrH2eWqXzc4GEbU79nAA5_1_jf1PgDVOaSETZvY/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://review.udacity.com/#!/projects/3772828931/rubric" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
