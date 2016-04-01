@@ -25,4 +25,4 @@ The app should only interact with Core Data objects (contexts, Persons, and Imag
 If a submission crashes then there may be a race condition, caused by accessing Core Data off the main queue. Make sure to check. In these situations you may be seeing a crash that students don't. It can be very device specific.  If you find a Core Data object being accessed off of the main thread then make sure to include that in your comments to the student, and remind them of the `dispatch_async(dispatch_get_main_queue())` technique.
 
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/1ZY422V1_zq5rBGkGOlhLw_g99xS15Qx0tFUYtFOJ46Y/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://review.udacity.com/#!/projects/3071048833/rubric" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
