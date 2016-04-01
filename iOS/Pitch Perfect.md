@@ -31,11 +31,10 @@ You will also make a relevant project that you will feel proud to share with you
 ##How do I complete this project?
 1. Follow this <a href="https://docs.google.com/document/d/1giyVDlOLBPUyNDVf_Eyqt0Oyxb-3sUDKPFK-XBkZNbc/pub?embedded=true" target="_blank">detailed specification</a>. 
 2. If desired, you can download the collection of images used in the app from this repo.
-3. If necessary, take <a href="https://www.udacity.com/course/ud585" target="_blank">Intro to iOS App Development with Swift</a>, which walks you step-by-step through creating the Pitch Perfect App.
-4. Once you have a completed app, make the <a href="https://docs.google.com/document/d/1uotwFB5A3qmQL4-NTNuI4UT_UqqPrsZ17wZMY6XhlB0/pub?embedded=true" target="_blank">following changes to your code</a>, based on feedback from a professional iOS Developer.
+3. If necessary, take <a href="https://classroom.udacity.com/nanodegrees/nd003/parts/0031345401/modules/308221874075460/lessons/6994652511/concepts/70391285470923" target="_blank">Intro to iOS App Development with Swift</a>, which walks you step-by-step through creating the Pitch Perfect App.
 ​
 ##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://docs.google.com/document/d/1LlcUT90j-ItbRQpB3ivLHwjP-KgKOUdoOLpz0WirpSo/pub?embedded=true" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
+Your project will be evaluated by a Udacity Code Reviewer according to <a href="https://review.udacity.com/#!/projects/3082218740/rubric" target="_blank">this rubric</a>. All criteria must "meet specifications" in order to pass.
 ​
 ##Submission
 ###Check your project for completion
