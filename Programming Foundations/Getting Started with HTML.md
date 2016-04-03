@@ -17,11 +17,11 @@ Students are expected to take notes from the mentioned lesson above and will be 
 The reviewer is expected to read students’ notes and add any clarification or commentary on their notes, this includes answering any questions the students have.
 
 The reviewer is also expected to read the students’ HTML code and provide constructive feedback on their code.
-Criteria
 
 ## Project Description
 
 As long as the student submits some notes in HTML, the project will pass. If the student submitted nothing, please mark the project as “Ungradable” and type in a message to the student outlining why the project is ungradable.
+If students just copy [Andy's Code Example](https://classroom.udacity.com/nanodegrees/nd000/parts/0001345401/modules/385165862675461/lessons/3851658626239847/concepts/38473885480923), please mark the project as "Ungradable" too. Take a moment to explain how important it is to write your own code in order to learn, and also mention the Udacity Honor Code. Remember that the students are new to the ND and this is (most probably) not an attempt of plagiarism, but only a misunderstanding.
 
 The reviewer should comment and give at least 3 comments on students’ code. One of the comments needs to be a nitpick to help guide students on best practices for HTML coding.
 
