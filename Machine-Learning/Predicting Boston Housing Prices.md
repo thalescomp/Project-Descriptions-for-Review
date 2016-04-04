@@ -18,7 +18,7 @@ For this project, you will need to have the following software and Python librar
 ## Deliverables
 The following files should be included as your submission, and can be packaged as a single zip file for convenience:
 - The `boston_housing.ipynb` file with fully implemented, functional code, with all code blocks executed and showing output.
-- A PDF report of the project (you may either save the notebook as a PDF with your answers, or submit a separate document with only the questions and your answers).
+- An HTML or PDF report of the project (you may either export the notebook as HTML with your answers included, or submit a separate PDF with only the questions and your answers).
 
 ## Project Report Questions
 A description of the Boston Housing dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Housing). Use this section as reference to the project questions you will encounter in the notebook. These questions (and your answers) must be present in your included PDF report.
