@@ -39,5 +39,5 @@ Before submitting your project for evaluation, we recommend that you check that 
 * Your program runs without any errors
 * You are proud of your project and its output
 * You completed your project according to the instructions
-* You checked your project against the [rubric](https://docs.google.com/document/d/1wDMSU8kVWetHqDXjEkROmUDJyZobnZSyBz-FOfn6kGU/pub)
+* You checked your project against the [rubric](https://review.udacity.com/#!/projects/6210414533/rubric)
 * Create a zip file with your project files. For instructions on how to do this, click here. When you feel ready to submit, use the blue 'Submit Project' button below!
