@@ -20,8 +20,9 @@ The reviewer is also expected to read the students’ HTML code and provide cons
 
 ## Project Description
 
-As long as the student submits some notes in HTML, the project will pass. If the student submitted nothing, please mark the project as “Ungradable” and type in a message to the student outlining why the project is ungradable.
-If students just copy [Andy's Code Example](https://classroom.udacity.com/nanodegrees/nd000/parts/0001345401/modules/385165862675461/lessons/3851658626239847/concepts/38473885480923), please mark the project as "Ungradable" too. Take a moment to explain how important it is to write your own code in order to learn, and also mention the Udacity Honor Code. Remember that the students are new to the ND and this is (most probably) not an attempt of plagiarism, but only a misunderstanding.
+As long the student submits some notes in HTML, the project meets specifications. If a student has submitted nothing, please mark the project as “Cannot Review” and type in a message to the student outlining why the project cannot be reviewed.
+
++If a student just copies [Andy's Code Example](https://classroom.udacity.com/nanodegrees/nd000/parts/0001345401/modules/385165862675461/lessons/3851658626239847/concepts/38473885480923), please mark the project as "Cannot Review" too. Take a moment to explain how, in order to learn, it is important to write your own code. Also refer the student to the Udacity Honor Code. Remember that the student is new to the ND and to coding in general, so this is most probably not an attempt of plagiarism, but only a misunderstanding.
 
 The reviewer should comment and give at least 3 comments on students’ code. One of the comments needs to be a nitpick to help guide students on best practices for HTML coding.
 
