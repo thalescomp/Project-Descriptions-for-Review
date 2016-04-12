@@ -32,7 +32,7 @@ The following files should be included as your submission, and can be packaged a
 
 ### Data Exploration
 - What kind of establishment (customer) could each of the three samples chosen from the customer data represent?
-- Which feature did you attempt to predict? What supervised regression learner did you use? What was the reported prediction score? Is this feature relevant for identifying a specific customer?
+- Which feature did you attempt to predict? What was the reported prediction score? Is this feature relevant for identifying a specific customer?
 - Are there any pairs of features which exhibit some degree of correlation? Does this confirm or deny your suspicions about the relevance of the feature you attempted to predict? How is the data for those features distributed?
 
 ### Data Preprocessing
