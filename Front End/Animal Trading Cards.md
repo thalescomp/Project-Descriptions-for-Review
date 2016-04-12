@@ -9,8 +9,9 @@ Before you move on, I have one more challenge. I want you to use what you've lea
 This is a common workflow for front-end web developers. Typically, you'll be provided with a design prototype that needs to be translated to an actual, functional website. In most cases, designers only provide you with the design prototype. However, for this project, I've provided you with the design prototype and the HTML. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film. You’ll be creating the card and then swapping out the fish with an animal of your choice.
 
 ### Project Instructions
+![Animal Card Mockup](http://lh3.googleusercontent.com/6Pp0fOn1FH0kcLXM0hLsADggBPsaiFJdd3bjxo2-VgKQWC8_yGttVbkN2wi39C1CAdHyYQAlDjdFe4hGo4U=s0#w=800&h=1232)
 
-0. Download and unzip `animal-trading-cards.zip` from the downloadables section. Inside, you'll find `card.html`, `styles.css`, `clownfish.jpg`, and the `design-prototype.pdf`.
+0. [Download](https://www.udacity.com/api/nodes/7422899268/supplemental_media/building-the-prototypezip/download) and unzip `animal-trading-cards.zip` from the downloadables section. Inside, you'll find `card.html`, `styles.css`, `clownfish.jpg`, and the `design-prototype.pdf`.
 1. Next, add the proper CSS to `styles.css` to recreate the design prototype. You’ll need to modify `card.html` to include `attributes` and use `selectors` to specify the elements you want to style. Also, make sure to link to your stylesheet in `card.html` or else your CSS will not be applied to your webpage.
 2. The CSS should apply these styles to match the design prototype:
     - italicized text for the animal's interesting fact
