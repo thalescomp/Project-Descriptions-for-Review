@@ -3,9 +3,9 @@
 
 ## Project Description
 
-A wholesale distributor recently tested a change to their delivery method for some customers, by moving from a morning delivery service five days a week to a cheaper evening delivery service three days a week. Initial testing did not discover any significant unsatisfactory results, so they implemented the cheaper option for all customers. Almost immediately, the distributor began getting complaints about the delivery service change and customers were canceling deliveries — losing the distributor more money than what was being saved. They scrambled to revert the change in their delivery service, wondering how so many customers were upset when initial testing had positive results.
+A wholesale distributor recently tested a change to their delivery method for some customers, by moving from a morning delivery service five days a week to a cheaper evening delivery service three days a week. Initial testing did not discover any significant unsatisfactory results, so they implemented the cheaper option for all customers. Almost immediately, the distributor began getting complaints about the delivery service change and customers were canceling deliveries — losing the distributor more money than what was being saved. You’ve been hired by the wholesale distributor to find what types of customers they have to help them make better, more informed business decisions in the future. Your task is to use unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories.
 
-As it turns out, most of the customers involved in the initial testing purchase high volumes of product, and had an easy time adapting to the change. Most of the distributor’s customers, however, purchase in much smaller volumes and were not equipped for the change. You’ve been hired by the wholesale distributor to find what types of customers they have to help them make better, more informed business decisions in the future. Your task is to use unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories.
+Navigate to Udacity's Machine Learning GitHub project repo [here](https://github.com/udacity/machine-learning/tree/master/projects), and download the projects for this Nanodegree. Once downloaded, unzip the archive and navigate to the `creating_customer_segments` folder for the project files and refer to the `README.md` file for further While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. You can find the included questions for reference below.
 
 ## Software and Libraries
 
@@ -17,10 +17,6 @@ For this project, you will need to have the following software installed:
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [iPython Notebook](http://ipython.org/notebook.html)
-
-## Template code
-
-Navigate to Udacity's Machine Learning GitHub project repo [here](https://github.com/udacity/machine-learning/tree/master/projects), and download the projects for this Nanodegree. Once downloaded, unzip the archive and navigate to the `creating_customer_segments` folder for the project files and refer to the `README.md` file for further information on the dataset and instructions on how to open the iPython notebook (`customer_segments.ipynb`). Follow the instructions in the notebook to complete each step, and answer the questions asked.
 
 ## Deliverables
 
