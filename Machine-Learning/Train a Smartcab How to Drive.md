@@ -77,7 +77,7 @@ Your project will be reviewed by a Udacity reviewer against **<a href="https://r
 ### Submission
 When you're ready to submit your project go back to your <a href="https://www.udacity.com/me" target="_blank">Udacity Home</a>, click on Project 4, and we'll walk you through the rest of the submission process. You need to turn in your final code (`agent.py` only) and report as a PDF file.
 
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **project@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
 
 ### What's Next?
 You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
