@@ -8,6 +8,4 @@ Many of these developers have had the same questions and concerns as you, and th
 
 [Here's a link to the project rubric!]
 
-###Ready to get started? [Click here to submit your project]
-
 If you are having any problems submitting your project or wish to check on the status of your submission, please email us at ios-project@udacity.com or visit us in the discussion forums.
