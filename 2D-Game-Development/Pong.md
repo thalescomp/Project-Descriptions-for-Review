@@ -31,4 +31,4 @@ Completing the project consists of the following tasks:
 * Code your own computer paddle logic.
 
 ##Submitting Your Project
-The submission portal for this project is not open yet.  Check back April 26th!
+The submission portal for this project is not open yet.  You can view the rubric [here](https://review.udacity.com/#!/projects/7425879428/rubric).
