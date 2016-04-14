@@ -6,6 +6,6 @@ One of the great value adds of Udacity is our code review, which is done by real
 
 Many of these developers have had the same questions and concerns as you, and they want to hear what you have to say!
 
-[Here's a link to the project rubric!]
+[Here's a link to the project rubric!](https://review.udacity.com/#!/projects/7806719546/rubric)
 
 If you are having any problems submitting your project or wish to check on the status of your submission, please email us at ios-project@udacity.com or visit us in the discussion forums.
