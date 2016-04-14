@@ -11,6 +11,7 @@ This project uses the following software and Python libraries:
 
 - [Python 2.7](https://www.python.org/download/releases/2.7/)
 - [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [iPython Notebook](http://ipython.org/notebook.html)
 
