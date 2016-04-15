@@ -5,7 +5,7 @@ In this project, you will create a document that captures the current situation 
 
 As you progress through the Nanodegree program, you will track this knowledge, status, and goals. You will update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
 
-It's OK if you don't know answers to some of these questions right away. You will revisit it and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
+It's okay if you don't know answers to some of these questions right away. You will revisit it and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
 
 Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or snapshot of your organization; second, a set of quantitative ratings you provide about the effectiveness of collaborative processes within your organization. Here are the questions.
 
@@ -76,13 +76,13 @@ Please provide your answers in time units, e.g. 5 hours or 2 days. If it takes l
 
 Please provide your answer in deployments per time unit, e.g., a maintenance release every month and a full upgrade every six months. What do you think would be optimal? 
 
-#### How easy is it to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"?  
-
-Rate on a scale of 1-10, with 1 being most difficult and 10 being easiest.
-
 #### How long does it take to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? 
 
 Please provide your answers in time units, e.g. 5 hours or 2 days.
+
+#### How easy is it to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"?  
+
+Rate on a scale of 1-10, with 1 being most difficult and 10 being easiest.
 
 #### How would you rate the quality of your software? 
 
