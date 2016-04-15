@@ -114,6 +114,6 @@ If you don't know Markdown, rest assured that it's quite easy. A [handy online t
 
 #### How to Submit your Project
 
-* Your submission will be reviewed using this rubric (ADD LINK). Please go throug the rubric carefully. 
+* Your submission will be reviewed using this rubric (ADD LINK). Please go through the rubric carefully. 
 * When you are confident that your project will meet all the required specifications in the rubric, you can submit the document at this link (ADD LINK).
 
