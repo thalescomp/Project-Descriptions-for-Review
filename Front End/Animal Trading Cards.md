@@ -15,6 +15,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 1. Next, add the proper CSS to `styles.css` to recreate the design prototype. You’ll need to modify `card.html` to include `attributes` and use `selectors` to specify the elements you want to style. Also, make sure to link to your stylesheet in `card.html` or else your CSS will not be applied to your webpage.
 2. The CSS should apply these styles to match the design prototype:
     - italicized text for the animal's interesting fact
+    - italicized text for the animal's list items
     - bolded labels for the animal's list items (e.g. 'Habitat')
     - border around the animal's name, image, and information
     - border around the animal's information
