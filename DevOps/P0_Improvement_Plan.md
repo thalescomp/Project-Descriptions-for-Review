@@ -1,6 +1,6 @@
-## [DevOps P0] Improvement Plan: Project Description
+# [DevOps P0] Improvement Plan: Project Description
 
-### Introduction
+## Introduction
 In this project, you will create a document that captures the current situation in your company or team. The document should describe the core function of your team and/or larger organizational unit as they relate to the company's overall function and mission. The document should reflect both what processes are going well and what processes could be improved. 
 
 As you progress through the Nanodegree program, you will track this knowledge, status, and goals. You will update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
@@ -9,7 +9,7 @@ It's OK if you don't know answers to some of these questions right away. You wil
 
 Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or snapshot of your organization; second, a set of quantitative ratings you provide about the effectiveness of collaborative processes within your organization. Here are the questions.
 
-### Organizational Snapshot
+## Organizational Snapshot
 
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
@@ -49,7 +49,7 @@ Consider such questions as:
 * Are both developers and operations involved when starting a new project? Do developers receive and act upon feedback from operations regarding how the software is performing?
 * How do internal customers make their requirements known? Do they directly communicate with the developers?
 
-### Quantitative Ratings
+## Quantitative Ratings
 
 #### How satisfied are you with how other teams work and support the work that you do? 
 
@@ -96,7 +96,7 @@ Rate on a scale of 1-10, with 1 being most difficult and 10 being easiest. How d
 
 Rate on a scale of 1-10, with 1 being least satisfied and 10 being most satisfied. How do you measure customer satisfaction? Please explain the reason for your rating. 
 
-### Project Resources and Submission Details
+## Project Resources and Submission Details
 
 #### Guidance
 
