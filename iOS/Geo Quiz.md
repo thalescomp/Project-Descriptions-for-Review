@@ -9,3 +9,5 @@ Many of these developers have had the same questions and concerns as you, and th
 [Here's a link to the project rubric!](https://review.udacity.com/#!/projects/7806719546/rubric)
 
 If you are having any problems submitting your project or wish to check on the status of your submission, please email us at ios-project@udacity.com or visit us in the discussion forums.
+
+[Here's a link to the start code for the project](https://drive.google.com/open?id=0B6FVFtkY8bw1Q1lYRzBNWFBWa2s). 
