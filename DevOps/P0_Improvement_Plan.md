@@ -131,8 +131,8 @@ You can find other Markdown editors on the web. Or you could use any text editor
 
 ### How will the project be reviewed? 
 
-Your submission will be reviewed using this rubric (ADD LINK). Please go through the rubric carefully to ensure that you have addressed all the project requirements.
+Your submission will be reviewed using [this rubric](https://review.udacity.com/#!/projects/7709298823/rubric). Please go through the rubric carefully to ensure that you have addressed all the project requirements.
 
 ### What is the procedure to submit the project? 
 
-When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit the document at this link (ADD LINK).
+When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit the Markdown file at [this link](https://review.udacity.com/#!/projects/156/submit-file).
