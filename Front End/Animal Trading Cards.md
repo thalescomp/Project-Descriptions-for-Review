@@ -16,6 +16,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 2. The CSS should apply these styles to match the design prototype:
     - italicized text for the animal's interesting fact
     - italicized text for the animal's list items
+    - no dots for the animal's list items
     - bolded labels for the animal's list items (e.g. 'Habitat')
     - border around the animal's name, image, and information
     - border around the animal's information
