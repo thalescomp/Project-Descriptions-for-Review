@@ -7,7 +7,7 @@ As you progress through the Nanodegree program, you will track this knowledge, s
 
 It's okay if you don't know answers to some of these questions right away. You will revisit it and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
 
-Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within your organization. A sample completed project will be provided as a guide. 
+Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within your organization. A [sample completed project](P0_Sample_Submission.md) has been provided as a guide. 
 
 We encourage you to examine a real-world work situation for this project. However, if you are not currently employed or if using your present employer would be too sensitive, we have also provided a [description of a fictional company](P0_Fictional_Company.md) that you can use for your project submission if necessary. 
 
