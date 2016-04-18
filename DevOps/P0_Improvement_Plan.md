@@ -1,15 +1,19 @@
 # [DevOps P0] Improvement Plan: Project Description
 
 ## Introduction
-In this project, you will create a document that captures the current situation in your company or team. The document should describe the core function of your team and/or larger organizational unit as they relate to the company's overall function and mission. The document should reflect both what processes are going well and what processes could be improved. 
+In this project, you will create a document that captures your knowledge of the current situation in your company or team. The document should describe the core function of your team and/or larger organizational unit as they relate to the company's overall function and mission. The document should reflect both what processes are going well and what processes could be improved. 
 
-As you progress through the Nanodegree program, you will track this knowledge, status, and goals. You will update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
+As you progress through the Nanodegree program, you will track this knowledge, status, and goals. You will continuously update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
 
 It's okay if you don't know answers to some of these questions right away. You will revisit it and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
 
-Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or snapshot of your organization; second, a set of quantitative ratings you provide about the effectiveness of collaborative processes within your organization. Here are the questions.
+Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within your organization. A sample completed project will be provided as a guide. 
 
-## Organizational Snapshot
+We encourage you to examine a real-world work situation for this project. However, if you are not currently employed or if using your present employer would be too sensitive, we will also provide is a description of a fictional company that you can use for your project submission if necessary. 
+
+## Organization Snapshot
+
+You will be asked to answer these questions that will provide an overview of the current state of your organization as you understand it today.
 
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
@@ -51,11 +55,14 @@ Consider such questions as:
 
 ## Quantitative Ratings
 
+You will be asked to provide the ratings described below. If a given rating is lower than you would like, we recommend that you provide a short explanation of the issue and some suggestions about how to resolve it. 
+
 #### How satisfied are you with how other teams work and support the work that you do? 
 
 Rate on a scale from 1-10, with 1 being least and 10 being most satisfied. You may give an overall rating, or separate ratings for each other team. 
 
-#### Do deployments go smoothly? 
+#### Do deployments go smoothly?
+ 
 Rate on a scale from 1-10, with 1 being least and 10 being most smooth.
 
 #### Do you have planned downtime for system upgrades or maintenance? 
@@ -96,24 +103,23 @@ Rate on a scale of 1-10, with 1 being most difficult and 10 being easiest. How d
 
 Rate on a scale of 1-10, with 1 being least satisfied and 10 being most satisfied. How do you measure customer satisfaction? Please explain the reason for your rating. 
 
-## Project Resources and Submission Details
+## Submission format
 
-#### Guidance
+Your document must be submitted in **Markdown format**. Markdown uses a plaintext file and the `.md` file extension to generate a document that renders attractively in a web browser. This document is itself written in Markdown. If you don't know Markdown, rest assured that it's quite easy. A [handy online tutorial](http://www.markdowntutorial.com/) promises to teach you all you need to know about Markdown in ten minutes. 
 
-Now that you know the questions, take a look at these resources that can serve as a guide for the project:
+You can download a template (ADD LINK) that you can use to create your Improvement Plan. The template is already in Markdown and has space for you to provide your answers. Many text editors allow you to edit, save, and preview Markdown documents. For example:
 
-* A sample project submission (ADD LINK)
-* An interview (ADD LINK) with WHOM?, who answers some of these questions with regard to HIS/HER company. 
-* We encourage you to use your actual situation for this project, but if you are not currently employed or if using your actual company would be too sensitive, here is a description of a fictional company (ADD LINK) that you can use for your project submission if necessary. 
+* [BBEdit](http://www.barebones.com/products/bbedit/), a Mac-only application, does so natively
+* [SublimeText](https://www.sublimetext.com/), for both Mac and Windows, has [extensions](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/) that provide the preview functionality. 
 
-#### Submission format
+You can find other Markdown editors on the web. Or you could use any text editor to generate the Markdown document, and any modern web browser to open the document for a preview. 
 
-Your document must be submitted in **Markdown format**. Markdown uses plaintext characters to generate a document that renders attractively on the web. This document is in Markdown. Many text editors allow you to save Markdown documents using the `.md` file extension and to preview the document. [BBEdit](http://www.barebones.com/products/bbedit/) does so natively, while there are [extensions](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/) for [SublimeText](https://www.sublimetext.com/) that provide the same functionality. 
+## Assessment and Submission Details
 
-If you don't know Markdown, rest assured that it's quite easy. A [handy online tutorial](http://www.markdowntutorial.com/) promises to teach you all you need to know about Markdown in ten minutes. Or you can download a template (ADD LINK) that you can use to create your document. The template is already in Markdown and has space for you to provide your answers. 
+### How will the project be reviewed? 
 
-#### How to Submit your Project
+Your submission will be reviewed using this rubric (ADD LINK). Please go through the rubric carefully to ensure that you have addressed all the project requirements.
 
-* Your submission will be reviewed using this rubric (ADD LINK). Please go through the rubric carefully. 
-* When you are confident that your project will meet all the required specifications in the rubric, you can submit the document at this link (ADD LINK).
+### What is the procedure to submit the project? 
 
+When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit the document at this link (ADD LINK).
