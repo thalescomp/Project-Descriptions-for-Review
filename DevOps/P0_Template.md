@@ -4,6 +4,12 @@ Use this template to generate your own submission for the project. The template 
 
 ## Organization Snapshot
 
+#### Provide a brief description of your company and your team's role in it.
+
+**Enter Date Here** 
+
+Replace this text with your answer. 
+
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
 **Enter Date Here** 
@@ -40,7 +46,7 @@ Replace this text with your answer.
 
 **Enter Date Here** 
 
-Replace this text with your answer. 
+Rating: Replace this text (after "Rating:") with your answer. 
 
 #### Do deployments go smoothly? (Scale: 1-10, 10 is best)
 
@@ -76,22 +82,22 @@ Replace this text with your answer.
 
 **Enter Date Here** 
 
-Replace this text with your answer. 
+Rating: Replace this text (after "Rating:") with your answer. 
 
 #### How would you rate the quality of your software? (Scale: 1-10, 10 is best)
 
 **Enter Date Here** 
 
-Replace this text with your answer. 
+Rating: Replace this text (after "Rating:") with your answer. 
 
 #### How easy it is to test your software? (Scale: 1-10, 10 is best)
 
 **Enter Date Here** 
 
-Replace this text with your answer. 
+Rating: Replace this text (after "Rating:") with your answer. 
 
 #### How satisfied are your customers? (Scale: 1-10, 10 is best) 
 
 **Enter Date Here** 
 
-Replace this text with your answer. 
+Rating: Replace this text (after "Rating:") with your answer. 
