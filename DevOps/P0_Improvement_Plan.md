@@ -120,12 +120,14 @@ Rate on a scale of 1-10, with 1 being least satisfied and 10 being most satisfie
 
 Your document must be submitted in **Markdown format**. Markdown uses a plaintext file and the `.md` file extension to generate a document that renders attractively in a web browser. This document is itself written in Markdown. If you don't know Markdown, rest assured that it's quite easy. A [handy online tutorial](http://www.markdowntutorial.com/) promises to teach you all you need to know about Markdown in ten minutes. 
 
-You can download a [template](P0_Template.md) that you can use to create your Improvement Plan. The template is already in Markdown and has space for you to provide your answers. Many text editors allow you to edit, save, and preview Markdown documents. For example:
+You can download a [template](P0_Template.md) that you can use to create your Improvement Plan. The template is already in Markdown and has space for you to provide your answers. After downloading the template, please rename it to `P0_FirstName_LastName.md` with your first and last name, then edit it to include your answers.
+
+Many text editors allow you to edit, save, and preview Markdown documents. For example:
 
 * [BBEdit](http://www.barebones.com/products/bbedit/), a Mac-only application, does so natively
 * [SublimeText](https://www.sublimetext.com/), for both Mac and Windows, has [extensions](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/) that provide the preview functionality. 
 
-You can find other Markdown editors on the web. Or you could use any text editor to generate the Markdown template, and any modern web browser to open the document for a preview. 
+You can find other Markdown editors on the web. Or you could use any text editor to edit the Markdown template, and any modern web browser to open the document for a preview. 
 
 ## Assessment and Submission Details
 
@@ -135,4 +137,4 @@ Your submission will be reviewed using [this rubric](https://review.udacity.com/
 
 ### What is the procedure to submit the project? 
 
-When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit the Markdown file at [this link](https://review.udacity.com/#!/projects/156/submit-file).
+When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit your `P0_FirstName_LastName.md` file at [this link](https://review.udacity.com/#!/projects/156/submit-file).
