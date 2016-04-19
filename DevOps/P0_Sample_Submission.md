@@ -12,7 +12,7 @@ Notice that the submission includes a date for each answer. As you progress thro
 
 **April 13**
 
-I work in a small company called ShoeBytes that sells footwear. The company has six retail stores in Chicago, Detroit, and Indianapolis. We see about 500 retail transactions in each store and another 1,000 transactions online each week. Our sales are about $2.5 million annually. My team maintains the online storefront. 
+I work in a small company called ShoeBytes that sells footwear. The company has a total of six retail stores in three different cities, as well as an online store. Our company has about 600 employees. The IT department is 80 people. My team of 12 people is part of the IT department and maintains the online storefront.
 
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
