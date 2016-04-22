@@ -122,7 +122,7 @@ Rate on a scale of 1-10, with 1 being least satisfied and 10 being most satisfie
 
 Your document must be submitted in **Markdown format**. Markdown uses a plaintext file and the `.md` file extension to generate a document that renders attractively in a web browser. This document is itself written in Markdown. If you don't know Markdown, rest assured that it's quite easy. A [handy online tutorial](http://www.markdowntutorial.com/) promises to teach you all you need to know about Markdown in ten minutes. 
 
-You can download a [template](https://raw.githubusercontent.com/udacity/Project-Descriptions-for-Review/master/DevOps/P0_Template.md) that you can use to create your Improvement Plan. The template is already in Markdown and has space for you to provide your answers. After downloading the template, please rename it to `P0_FirstName_LastName.md` with your first and last name, then edit it to include your answers.
+You can download a [template](https://raw.githubusercontent.com/udacity/Project-Descriptions-for-Review/master/DevOps/P0/P0_Template.md) that you can use to create your Improvement Plan. The template is already in Markdown and has space for you to provide your answers. After downloading the template, please rename it to `P0_FirstName_LastName.md` with your first and last name, then edit it to include your answers.
 
 Many text editors allow you to edit, save, and preview Markdown documents. For example:
 
