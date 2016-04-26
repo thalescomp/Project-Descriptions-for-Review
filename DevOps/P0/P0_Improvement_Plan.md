@@ -1,21 +1,27 @@
 # [DevOps P0] Improvement Plan: Project Description
 
 ## Introduction
-In this project, you will create a document that captures your knowledge of the current situation in your company or team. The document should describe the core function of your team and/or larger organizational unit as they relate to the company's overall function and mission. The document should reflect both what processes are going well and what processes could be improved. 
+In this project, you will create a document that describes the current situation in a company as seen from the perspective of either a software developer or a member of the IT operations team. The document should capture the typical processes by which software is built, tested, and put into production. The document should reflect both what processes are going well and what processes could be improved.
 
-As you progress through the Nanodegree program, you will track this knowledge, status, and goals. You will continuously update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
+As you progress through the Nanodegree program, you will continuously update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
+
+The goal of this project is to reinforce the core value of DevOps: it is not just a set of technical tools; it is a way of rethinking business processes throughout the organization. DevOps practices see IT and software development as core components of an organization, working in collaboration with Marketing, Sales, Accounting, and other teams to advance the core function of the company. To understand the value of DevOps and the mindset of a DevOps engineer, it's necessary to look at the larger business context. This project is meant to help you place the DevOps tools you will learn throughout this Nanodegree program in that larger context.
+
+If you are comfortable using your own experience, either in your current position or in previous jobs, feel free to do so directly. Otherwise, use the following resources to generate the document:
+
+* Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process 
+* Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative
+* Using the two suggestions above, add some detail to this [description of a fictional company](P0_Fictional_Company.md) and use it for your project.
 
 It's okay if you don't know answers to some of these questions right away. You will revisit it and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
 
-Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within your organization. A [sample completed project](P0_Sample_Submission.md) has been provided as a guide. 
-
-We encourage you to examine a real-world work situation for this project. However, if you are not currently employed or if using your present employer would be too sensitive, we have also provided a [description of a fictional company](P0_Fictional_Company.md) that you can use for your project submission if necessary. 
+Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your (real or fictional) organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within your organization. A [sample completed project](P0_Sample_Submission.md) has been provided as a guide. 
 
 ## Organization Snapshot
 
-You will be asked to answer these questions that will provide an overview of the current state of your organization as you understand it today.
+Assume that you are either a software developer or an IT Operations employee at the chosen company. You will be asked to answer these questions that will provide an overview of the current state of the organization as you understand it today.
 
-#### Provide a brief description of your company and your team's role in it.
+#### Provide a brief description of the company and your team's role in it.
 
 Please address such questions as:
 
