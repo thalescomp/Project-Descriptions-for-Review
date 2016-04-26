@@ -13,9 +13,11 @@ In creating the document, if you are comfortable using your real-life experience
 * Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative.
 * Using the two suggestions above, add some detail to this [description of a fictional company](P0_Fictional_Company.md) and use it for your project.
 
-It's okay if you don't know answers to some of these questions right away. You will revisit it and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
+Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your (real or fictional) organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within the organization.
 
-Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your (real or fictional) organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within your organization. A [sample completed project](P0_Sample_Submission.md) has been provided as a guide. 
+The assignment is meant to be a low-stakes way to get you started thinking like a DevOps engineer. Use these questions as a way of orienting yourself to the sort of issues DevOps engineers tackle. Don't worry about finding the perfect answers! It's okay if you don't know some of them right away. You will revisit the document and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
+
+The project is intended to take about 1.5 to 2 hours to complete. A [sample completed project](P0_Sample_Submission.md) has been provided as a guide.
 
 ## Organization Snapshot
 

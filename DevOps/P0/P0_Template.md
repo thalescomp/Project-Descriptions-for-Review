@@ -52,7 +52,7 @@ Rating: Replace this text (after "Rating:") with your answer.
 
 **Enter Date Here** 
 
-Replace this text with your answer. 
+Rating: Replace this text (after "Rating:") with your answer. 
 
 #### Do you have planned downtime for system upgrades or maintenance? 
 

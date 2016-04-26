@@ -2,7 +2,9 @@
 
 ## About this Resource
 
-We encourage you to examine a real-world work situation for this project. However, if you are not currently employed or if using your present employer would be too sensitive, here is a description of a fictional company that you can use for your project submission if necessary. Imagine that you are on the software development team at this company. 
+If you are comfortable using your real-life experiences (from your current position or from previous jobs) for this project, feel free to do so. However, we recognize that using real scenarios may be sensitive from both a business and a personal standpoint. If you wish to keep real-world information out of the project, or if you have not previously worked in a field related to DevOps, use this description of a fictional company for the assignment. 
+
+We encourage you to add details to this description as you work on the project. You might find it helpful to talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process. You could also search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative.
 
 ## Introduction 
 
