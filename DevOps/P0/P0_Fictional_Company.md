@@ -4,9 +4,12 @@
 
 If you are comfortable using your real-life experiences (from your current position or from previous jobs) for this project, feel free to do so. However, we recognize that using real scenarios may be sensitive from both a business and a personal standpoint. If you wish to keep real-world information out of the project, or if you have not previously worked in a field related to DevOps, use this description of a fictional company for the assignment. 
 
-We encourage you to add details to this description as you work on the project. You might find it helpful to talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process. You could also search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative.
+This fictional description does not provide all the information needed for answering the questions in the project. You will need to add your own details to complete the project. You might find these resources helpful:
+* Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process
+* Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative
+* Use the [sample project submission](https://github.com/udacity/Project-Descriptions-for-Review/blob/9d7b8dd2c0d6d23fe5ecf768351b68184835a443/DevOps/P0/P0_Sample_Submission.md) as a guide. 
 
-## Introduction 
+## Introduction to Twisted Threads
 
 Welcome to our fictional company, Twisted Threads. Twisted Threads ships cotton T-shirts on demand. The founder started the company 10 years ago from her basement, but it has since expanded to over 200 employees. There is a warehouse, several physical stores, and an e-commerce site. Customers love the high-quality materials and custom designs.
 

@@ -1,6 +1,6 @@
 # [DevOps P0] Improvement Plan: Submission Template
 
-Use this template to generate your own submission for the project. The template is already in Markdown and has space for you to provide your answers. Read the [Project Description](P0_Improvement_Plan.md) and the [Sample Submission](P0_Sample_Submission.md) for details and suggestions about how to complete your answers. Delete this paragraph before submitting your project. 
+Use this template to generate your own submission for the project. The template is already in Markdown and has space for you to provide your answers. Read the [Project Description](P0_Improvement_Plan.md) and the [Sample Submission](P0_Sample_Submission.md) for details and suggestions about how to complete your answers. Before submitting your project, delete this paragraph and rename the file to **P0_FirstName_LastName** using your first and last names. 
 
 ## Organization Snapshot
 
