@@ -1,7 +1,5 @@
 # [DevOps P0] Improvement Plan: Reviewer Instructions
 
-## About This Resource
-
 This document provides guidelines to reviewers on how to give feedback on DevOps P0, Improvement Plan. Please read it carefully and thoroughly before beginning to review student projects.
 
 ## Goals of DevOps P0 and Implications for Review
@@ -34,5 +32,5 @@ These are other goals associated with DevOps P0:
 #### Additional Information
 
 * Copious reviewer tips have been provided in the [rubric](https://review.udacity.com/#!/projects/7709298823/rubric). Please follow them diligently. 
-* The Reviews Admin app does not render markdown. Please download the student submission and view it in the markdown viewer of your choice. 
+* The Reviews Admin app does not render Markdown. Please download the student submission and view it in the Markdown viewer of your choice. 
 * Learning Markdown is *not* one of the project goals. Please provide comments if the student makes mistakes with Markdown, but this is not grounds to ask the student to resubmit.
