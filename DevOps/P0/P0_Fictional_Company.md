@@ -1,6 +1,6 @@
 # [DevOps P0] Improvement Plan: Fictional Company
 
-## About this Resource
+## About This Resource
 
 If you are comfortable using your real-life experiences (from your current position or from previous jobs) for this project, feel free to do so. However, we recognize that using real scenarios may be sensitive from both a business and a personal standpoint. If you wish to keep real-world information out of the project, or if you have not previously worked in a field related to DevOps, use this description of a fictional company for the assignment. 
 

@@ -18,6 +18,8 @@ Your project has two parts: first, a series of short, open-ended brief questions
 
 The assignment is meant to be a low-stakes way to get you started thinking like a DevOps engineer. Use these questions as a way of orienting yourself to the sort of issues DevOps engineers tackle. Don't worry about finding the perfect answers! It's okay if you don't know some of them right away. You will revisit the document and fill in the details later. Every time you add to the document, **put in the date** so that you have a record of how your answers change over time.
 
+The project is intended to take about 1.5 to 2 hours to complete. 
+
 ## Organization Snapshot
 
 Assume that you are either a software developer or an IT Operations employee at the chosen company. You will be asked to answer these questions that will provide an overview of the current state of the organization as you understand it today.
