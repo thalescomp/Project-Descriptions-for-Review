@@ -1,4 +1,4 @@
-# [DevOps P0] Improvement Plan: Reviewer Instructions
+# [DevOps P0] Investigating the Situation: Reviewer Instructions
 
 This document provides guidelines to reviewers on how to give feedback on DevOps P0, Improvement Plan. Please read it carefully and thoroughly before beginning to review student projects.
 
@@ -26,11 +26,17 @@ These are other goals associated with DevOps P0:
 
 * The project should not be difficult to complete. The reviewers' bias should be toward giving the student the benefit of the doubt; when you are uncertain, err on the side of saying something meets specifications rather than saying it doesn't meet specifications. It is certainly possible for a submission to not meet specifications, as explained above and in the Reviewer Tips to the rubric. But bear in mind that the student is new to DevOps. If there are gaps in the student's understanding or explanations, point out those gaps as a learning opportunity, and do not penalize the student for them. 
 * As long as the student has made a sincere effort to achieve the learning outcome of the project, and there are no glaring omissions or errors, the project should meets specifications. The bar is not high on this one. 
-* Give copious feedback. Your feedback should be encouraging. Celebrate students' efforts and successes!
+
+#### Providing Feedback
+Since students may be new to the field of DevOps, give copious feedback that will help them get oriented.
+
+* Your feedback should be encouraging. Celebrate students' efforts and successes! 
 * Even when pointing out areas that could be improved, frame it as an encouragement to explore the DevOps mindset further, not as flaws with the submission. 
+* The goal of your feedback, as of the project itself, should be to inculcate the DevOps mindset in the student. 
+* Encourage the student to revise the document in the light of your feedback, as a way to get into the DevOps mindset.
 
 #### Additional Information
 
-* Copious reviewer tips have been provided in the [rubric](https://review.udacity.com/#!/projects/7709298823/rubric). Please follow them diligently. 
+* Extensive reviewer tips have been provided in the [rubric](https://review.udacity.com/#!/projects/7709298823/rubric). Please follow them diligently. 
 * The Reviews Admin app does not render Markdown. Please download the student submission and view it in the Markdown viewer of your choice. 
 * Learning Markdown is *not* one of the project goals. Please provide comments if the student makes mistakes with Markdown, but this is not grounds to ask the student to resubmit.

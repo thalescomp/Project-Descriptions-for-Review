@@ -1,4 +1,4 @@
-# [DevOps P0] Improvement Plan: Fictional Company
+# [DevOps P0] Investigating the Situation: Fictional Company
 
 ## About This Resource
 

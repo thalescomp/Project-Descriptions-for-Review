@@ -1,4 +1,4 @@
-#[DevOps P0] Improvement Plan: Sample Submission
+#[DevOps P0] Investigating the Situation: Sample Submission
 
 ## Introduction
 
