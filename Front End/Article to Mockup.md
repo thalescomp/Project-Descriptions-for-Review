@@ -8,7 +8,7 @@ You're going to see some formatting you haven't encountered before, so you'll ne
 
 See below the mockup for the article:
 
-![blog-mockup](http://lh3.googleusercontent.com/HlsVQhZFGef6DCXRWBVQ-TWvvx_WIBn44aZbQoLBQHcXCkNOpvboz_4gzmNLoEUvV4zH5X_7PXA_F-QR2vQ=s0#w=1199&h=1392)
+![blog-mockup](http://lh3.googleusercontent.com/YY33JsYuLn5zCiQmhmiRdoSFr63RgdxsqUqzw_DJUq6wvRxAmidVjn37xj1vv-nTCqJnomnHWsNeqlJJHfU=s0#w=1212&h=1384)
 
 ### Project Instructions
 
