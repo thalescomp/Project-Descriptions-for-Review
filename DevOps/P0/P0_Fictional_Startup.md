@@ -2,7 +2,7 @@
 
 ## Introduction to Ungeneric
 
-Ungeneric is a small software startup developing a SaaS solution for gamification. Ungeneric began as a game development company, with an emphasis on games that help the user maintain a physical workout regimen. After a couple of pivots, it has successfully found a good market fit working with companies on gamifying their wellness initiatives. Companies who are Ungeneric customers can use the product to:
+Ungeneric is a small software startup developing a SaaS (Software as a Service) solution for gamification. Ungeneric began as a game development company, with an emphasis on games that help the user maintain a physical workout regimen. After a couple of pivots, it has successfully found a good market fit working with companies on gamifying their wellness initiatives. Companies who are Ungeneric customers can use the product to:
 
 * Set up and run interdepartmental challenges to see how many employees sign up for lunchtime yoga, or join the bike-to-work program, etc. 
 * Offer small rewards such as gift cards for individual employees who complete certain milestones: exercising at the company gym regularly, having an ergonomic assessment of their workstations, etc. 
@@ -33,7 +33,7 @@ The small developer team sees the urgent need to scale its offerings while maint
 
 You knows the development side well and are confident in your ability to code new features. But you are new to operations processes and challenges. You ended up being the one to deal with these aspects because the CEO trusts you.
 
-[Project Description](P0_Improvement_Plan.md)
+[Project Description](P0_Project_Instructions.md)
 
 [Project Submission Template](P0_Template.md)
 
