@@ -31,7 +31,7 @@ The small developer team sees the urgent need to scale its offerings while maint
 * Ensure a robust and stable production environment
 * Identify, track, and handle bugs, outages, and other issues quickly. 
 
-You knows the development side well and are confident in your ability to code new features. But you are new to operations processes and challenges. You ended up being the one to deal with these aspects because the CEO trusts you.
+You know the development side well and are confident in your ability to code new features. But you are new to operations processes and challenges. You ended up being the one to deal with these aspects because the CEO trusts you.
 
 [Project Description](P0_Project_Instructions.md)
 
