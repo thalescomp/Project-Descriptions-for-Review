@@ -1,4 +1,4 @@
-# [DevOps P0] Investigating the Situation: Fictional Company
+# [DevOps P0] Investigating a Product Workflow: Established Small Company
 
 ## About This Resource
 
