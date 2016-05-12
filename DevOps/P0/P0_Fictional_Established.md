@@ -31,7 +31,7 @@ That’s the good news. Now for the bad news.
 * The product team wants more features but the rollout of new features is painfully slow. The competition just launched personalization on their site which was a huge hit with customers. Twisted Threads is falling behind because their website is outdated. 
 * Developers are unhappy because deployment of new features takes ages, and operations does not give them new servers. Operations is too overwhelmed with running in the cloud in general, and worry about what will happen if the cloud datacenter has a long outage or loses their data.
 
-[Project Description](P0_Improvement_Plan.md)
+[Project Description](P0_Project_Instructions.md)
 
 [Project Submission Template](P0_Template.md)
 
