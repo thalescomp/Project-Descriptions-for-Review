@@ -1,5 +1,11 @@
 # [DevOps P0] Investigating a Product Workflow: Startup
 
+
+**This fictional description does not provide all the information needed for answering the questions in the project**. You will need to add your own details to complete the project. You might find these resources helpful:
+* Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process
+* Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative
+* Use the [sample project submission](https://github.com/udacity/Project-Descriptions-for-Review/blob/9d7b8dd2c0d6d23fe5ecf768351b68184835a443/DevOps/P0/P0_Sample_Submission.md) as a guide. 
+
 ## Introduction to Ungeneric
 
 Ungeneric is a small software startup developing a SaaS (Software as a Service) solution for gamification. Ungeneric began as a game development company, with an emphasis on games that help the user maintain a physical workout regimen. After a couple of pivots, it has successfully found a good market fit working with companies on gamifying their wellness initiatives. Companies who are Ungeneric customers can use the product to:

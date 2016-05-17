@@ -2,9 +2,11 @@
 
 ## About This Resource
 
-If you are comfortable using your real-life experiences (from your current position or from previous jobs) for this project, feel free to do so. However, we recognize that using real scenarios may be sensitive from both a business and a personal standpoint. If you wish to keep real-world information out of the project, or if you have not previously worked in a field related to DevOps, use this description of a fictional company for the assignment. 
+DevOps is about building processes that enable your company to thrive. This involves paying attention to the specifics of the company's situation and culture. A startup, a small but established company, and a large corporation pose different challenges for a DevOps engineer looking to establish good processes.
 
-**This fictional description does not provide all the information needed for answering the questions in the project**. You will need to add your own details to complete the project. You might find these resources helpful:
+For this project, we have provided one fictional example of each of these three types of companies. You are encouraged to choose whichever of these three examples is closest to your real-life experiences (from your current position or from previous jobs), or whichever you find most interesting. You will be asked to return to this example for later projects, so please consider your choice carefully. 
+
+This example is of a small but established company. **This description does not provide all the information needed for answering the questions in the project**. You will need to add fictional details of your own to complete the project. If you have not worked in a dev or ops position before, you might find these resources helpful: 
 * Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process
 * Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative
 * Use the [sample project submission](https://github.com/udacity/Project-Descriptions-for-Review/blob/9d7b8dd2c0d6d23fe5ecf768351b68184835a443/DevOps/P0/P0_Sample_Submission.md) as a guide. 
