@@ -1,4 +1,4 @@
-# [DevOps P0] Investigating a Product Workflow: Startup
+# [DevOps P0] Investigate a Product Workflow: Startup
 
 
 **This fictional description does not provide all the information needed for answering the questions in the project**. You will need to add your own details to complete the project. You might find these resources helpful:
@@ -39,7 +39,7 @@ The small developer team sees the urgent need to scale its offerings while maint
 
 You know the development side well and are confident in your ability to code new features. But you are new to operations processes and challenges. You ended up being the one to deal with these aspects because the CEO trusts you.
 
-[Project Description](P0_Project_Instructions.md)
+[Project Description](P0_Project_Description.md)
 
 [Project Submission Template](P0_Template.md)
 

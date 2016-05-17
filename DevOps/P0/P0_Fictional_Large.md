@@ -1,4 +1,4 @@
-# [DevOps P0] Investigating a Product Workflow: Large Company
+# [DevOps P0] Investigate a Product Workflow: Large Company
 
 
 **This fictional description does not provide all the information needed for answering the questions in the project**. You will need to add your own details to complete the project. You might find these resources helpful:
@@ -53,7 +53,7 @@ You are a developer on the agile team that is responsible for the flagship produ
 You are a member of the Operations team that supports the infrastructure for the hosted application (i.e., for when schools want ChalkFull to run the app on its own servers instead of at the school site). You also support the infrastructure for schools that run the application on their own site to upgrade the software (when a new release or bug fix is implemented). Historically, your team is frustrated that the developer team often requires you to push out a new feature too quickly, which compromises testing and getting a signoff from QA. When such rollouts go well, Operations does not get recognition for its work; your team is visible only when something does not work. Things seem to be getting better, at least in terms of rhetoric, as the VP of Engineering has made efforts to include your team's input on requirements and to ensure that your team is notified about upcoming projects earlier. However, some of your team members are worried about her desire to implement a culture of DevOps; if developers will be responsible for operations functions as well, will the Ops team no longer be needed? 
 
 
-[Project Description](P0_Project_Instructions.md)
+[Project Description](P0_Project_Description.md)
 
 [Project Submission Template](P0_Template.md)
 

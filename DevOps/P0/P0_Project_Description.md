@@ -1,4 +1,4 @@
-# [DevOps P0] Investigating a Product Workflow: Project Description
+# [DevOps P0] Investigate a Product Workflow: Project Description
 
 ## Introduction
 In this project, you will create a document that describes the current situation in a company as seen from the perspective of an aspiring DevOps engineer. The document should capture the typical processes by which software is built, tested, and put into production. The document should reflect both what processes are going well and what processes could be improved.
