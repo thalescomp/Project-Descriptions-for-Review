@@ -4,10 +4,14 @@
 +Is now available from the Description tab inside the Reviews app.
 
 ### Data Wrangling Submission Instructions for Students
-These [instructions](https://docs.google.com/document/d/1Ab7-k1YFun_GvqkKDWvAwr-t2vCZp3rNq5IEIYyyllA/pub) are student-facing. In particular, they contains instructions on getting OSM datasets using a custom query - you might encounter this in student submissions. 
+These [instructions](https://www.udacity.com/course/viewer#!/c-nd002/l-3168208620/m-7713531907) are student-facing. In particular, they contains instructions on getting OSM datasets using a custom query - you might encounter this in student submissions. 
 
 ### Project Rubric - Student Facing
-[Rubric](https://docs.google.com/a/knowlabs.com/document/d/1TpfNxDzUjhibq9Qb8cOQHtlvZUelft-W0fb7pCTTyYE/pub)
+[Rubric](https://review.udacity.com/#!/projects/3168208620/rubric)
 
 ### Sample Project - Student Facing
-This [project](https://docs.google.com/a/knowlabs.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub) is student-facing. You can share this link with students in your evaluations. 
+Here are examples of what the final reports could look like:
+- [SQL sample project](https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md)
+- [MongoDB Sample Project](https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub?embedded=True)
+
+These are student-facing. You can share these links with students in your evaluations. 

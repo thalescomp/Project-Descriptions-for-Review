@@ -1,26 +1,25 @@
-# [DevOps P0] Investigating the Situation: Project Description
+# [DevOps P0] Investigate a Product Workflow: Project Description
 
 ## Introduction
-In this project, you will create a document that describes the current situation in a company as seen from the perspective of either a software developer or a member of the IT operations team. The document should capture the typical processes by which software is built, tested, and put into production. The document should reflect both what processes are going well and what processes could be improved.
-
-As you progress through the Nanodegree program, you will continuously update the document to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
+In this project, you will create a document that describes the current situation in a company as seen from the perspective of an aspiring DevOps engineer. The document should capture the typical processes by which software is built, tested, and put into production. The document should reflect both what processes are going well and what processes could be improved.
 
 The goal of this project is to reinforce the core value of DevOps. DevOps is not just a set of technical tools; it is a way of rethinking business processes throughout the organization. The DevOps philosophy sees IT and software development as core components of the organization, working in collaboration with Marketing, Sales, Accounting, and other teams to advance the core function of the company. To understand the value of DevOps and the mindset of a DevOps engineer, it's necessary to look at the larger business context. This project is meant to help you place the DevOps tools you will learn throughout this Nanodegree program in that larger context.
 
-In creating the document, if you are comfortable using your real-life experiences (from your current position or from previous jobs), feel free to do so. However, using real scenarios may be sensitive from both a business and a personal standpoint. If you wish to keep real-world information out of the project, or if you have not previously worked in a field related to DevOps, use the following resources to generate the document:
+From the perspective of a DevOps engineer seeking to establish good processes, a startup, a small but established company, and a large corporation pose different challenges of their own. For this project, we have provided one fictional example of each of these three types of companies. You are encouraged to choose whichever of these three examples is closest to your real-life experience (from your current position or from previous jobs), or whichever you find most interesting. If you have not worked in a dev or ops position before, you might find these resources helpful: 
 
 * Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process. What works well? What is difficult? 
 * Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative.
-* Take a look at the [sample project submission](P0_Sample_Submission.md) that has been provided as a guide.
-* Using the suggestions above, add some detail to this [description of a fictional company](P0_Fictional_Company.md) and use it for your project.
+* Take a look at the [sample project submission](P0_Sample_Submission.md) that has been provided as a guide. The sample submission uses a different fictional company. 
 
-Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of your (real or fictional) organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within the organization. The assignment is meant to be a low-stakes way to get you started thinking like a DevOps engineer. Use these questions as a way of orienting yourself to the sort of issues DevOps engineers tackle. Don't worry about finding the perfect answers! It's okay if you don't know some of them right away. You will revisit the document and fill in the details later. 
+You will be asked to return to this example for later projects, so please consider your choice carefully. As you progress through the Nanodegree program, you will continuously update your project submission to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
+
+Your project has two parts: first, a series of short, open-ended brief questions you must answer to provide an overview or **snapshot of the fictional organization**; second, a set of **quantitative ratings** you provide about the effectiveness of collaborative processes within the organization. The assignment is meant to be a low-stakes way to get you started thinking like a DevOps engineer. Use these questions as a way of orienting yourself to the sort of issues DevOps engineers tackle. Don't worry about finding the perfect answers! It's okay if you don't know some of them right away. You will revisit the document and fill in the details later. 
 
 The project is intended to take about 1.5 to 2 hours to complete. 
 
 ## Organization Snapshot
 
-Assume that you are either a software developer or an IT Operations employee at the chosen company. You will be asked to answer these questions that will provide an overview of the current state of the organization as you understand it today.
+You will be asked to answer these questions that will provide an overview of the current state of the organization as you understand it today.
 
 #### Provide a brief description of the company and your team's role in it.
 

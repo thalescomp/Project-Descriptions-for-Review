@@ -1,4 +1,4 @@
-#[DevOps P0] Investigating the Situation: Sample Submission
+#[DevOps P0] Investigate a Product Workflow: Sample Submission
 
 ## Introduction
 
@@ -129,7 +129,7 @@ Rating: 7. They are okay. We have a feedback link on our site, and we follow wha
 
 That's it for the sample submission! Something like this would meet specifications for the project. However, the sample represents a typical effort, not the best. For instance, the sample does not provide any insight into steps that might be taken to remediate the problems in the software development lifecycle. The goal of the project is to get you started thinking like a DevOps Engineer, so the more concrete details you can give about problems and possible solutions, the better.
 
-[Project Description](P0_Improvement_Plan.md)
+[Project Description](P0_Project_Description.md)
 
 [Project Submission Template](P0_Template.md)
 
