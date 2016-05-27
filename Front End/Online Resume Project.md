@@ -6,7 +6,12 @@
 Please refer to the reviewer tips column in the [rubric](https://review.udacity.com/#!/projects/2962818615/rubric) for advice on how to evaluate specific rubrics. Email in to review-support@udacity.com if you have any questions.
 
 As a pre-requisite, we want students to start being aware of the need for code readability.
-Please select “Can’t Review” in the Project Review tab if you find multiple instances of the following formatting errors in the student’s code such as: Indentation very inconsistent or trailing whitespace in files; spaces missing after colons or before curly braces or blank lines missing between style rules in CSS; missing or unnecessary semicolons in JavaScript. These errors indicate that even the basic code cleaning tools below were not used and the code is not ready to review. Other Code Quality issues should be handled with Suggestion comments. Code quality issues do not cause a project to not meet specifications.
+Please select “Can’t Review” in the Project Review tab if you find multiple instances of the following formatting errors in the student’s code making it difficult to read such as:
+* Indentation very inconsistent or trailing whitespace in files
+* Spaces missing after colons or before curly braces or blank lines missing between style rules in CSS
+* Missing or unnecessary semicolons in JavaScript
+
+These errors indicate that even the basic code cleaning tools below were not used and the code is not ready to review. Other Code Quality issues should be handled with Suggestion comments. Code quality issues do not cause a project to not meet specifications.
 
 # Project Overview
 
