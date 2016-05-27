@@ -1,10 +1,16 @@
 # [DevOps P0] Investigate a Product Workflow: Large Company
 
+## About This Resource
 
-**This fictional description does not provide all the information needed for answering the questions in the project**. You will need to add your own details to complete the project. You might find these resources helpful:
-* Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process
-* Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative
-* Use the [sample project submission](https://github.com/udacity/Project-Descriptions-for-Review/blob/9d7b8dd2c0d6d23fe5ecf768351b68184835a443/DevOps/P0/P0_Sample_Submission.md) as a guide. 
+DevOps is about building processes that enable your company to thrive. This involves paying attention to the specifics of the company's situation and culture. A startup, a small but established company, and a large corporation pose different challenges for a DevOps engineer looking to establish good processes.
+
+For this project, we have provided one fictional example of each of these three types of companies. You are encouraged to choose whichever of these three examples is closest to your real-life experiences (from your current position or from previous jobs), or whichever you find most interesting. You will be asked to return to this example for later projects, so please consider your choice carefully. 
+
+This example is of a large, public company. **This description does not provide all the information needed for answering the questions in the project**. You will need to add fictional details of your own to complete the project. If you have not worked in a dev or ops position before, you might find these resources helpful for completing the project: 
+
+* Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process. What works well? What is difficult? 
+* Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative.
+* Take a look at the [sample project submission](P0_Sample_Submission.md) that has been provided as a guide. The sample submission uses a different fictional company from the ones provided for your use. 
 
 ## Introduction to ChalkFull
 
@@ -34,9 +40,9 @@ Some of these teams follow agile practises, but there are also teams in which pr
 
 There are many competing pressures and constraints on the product.
 
-* The desire to increase the customer base, which makes adding new features a priority. Sometimes the Sales team promises features to potential customers by a very short time frame that Development is not comfortable with. An example of such a feature to be implemented very rapidly is the ability to import grades directly from quizzes administered via [Moodle](https://moodle.org/) or other online learning management systems
-* The need to maintain legacy systems, e.g., a way to read information off [Scantron](http://www.scantron.com/) forms to populate new student data or to calculate test scores
-* The difficulty in getting the budget for new positions approved, given the desire to hold costs down
+* The desire to increase the customer base, which makes adding new features a priority. Sometimes the Sales team promises features to potential customers by a very short time frame that Development is not comfortable with. An example of such a feature is the ability to import grades directly from quizzes administered via [Moodle](https://moodle.org/) or other online learning management systems. This feature had to be implemented very rapidly and was pushed out without proper testing or QA, and customers were unhappy with the resulting bugs.
+* The need to maintain legacy systems, e.g., a way to read information off [Scantron](http://www.scantron.com/) forms to populate new student data or to calculate test scores.
+* The difficulty in getting the budget for new positions approved, given the desire to hold costs down.
 * Compliance with regulations, as there are strict laws governing student record privacy and the privacy of minors. For example, ChalkFull employees cannot deal directly with a school's data set; it has to be anonymized before the employees can look at it, and ChalkFull is responsible for providing the mechanisms to anonymize the data
 * A disparate customer base, with some schools preferring to run the software on servers located at the school site, and others wanting ChalkFull to host the servers. 
 
