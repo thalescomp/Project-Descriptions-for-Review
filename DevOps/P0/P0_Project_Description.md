@@ -77,4 +77,4 @@ Your submission will be reviewed using [this rubric](https://review.udacity.com/
 
 ### What is the procedure to submit the project? 
 
-When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit your `P0_FirstName_LastName.md` file at [this link](https://review.udacity.com/#!/projects/156/submit-file).
+When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit your completed project at [this link](https://review.udacity.com/#!/projects/156/submit-file).
