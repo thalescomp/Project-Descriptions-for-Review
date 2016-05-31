@@ -47,10 +47,6 @@ Yes, the goals are in good alignment with each other.
 
 ### How would you characterize communication within the organization? Do team members communicate well with each other? Is communication across teams smooth? How would you improve communication? 
 
-* Does the company or team face any problems that would be avoided with better communication?
-* Are both developers and operations involved when starting a new project? Do developers receive and act upon feedback from operations regarding how the software is performing?
-* How do internal customers make their requirements known? Do they directly communicate with the developers?
-
 We pretty much just talk within a team and with a manager and PM. The PM is responsible for gathering formal requirements and ensuring these are communicated to the team. I sometimes talk with other teams over lunch and usually find out a lot of interesting things that are even helpful at work. 
 
 ## Conclusion
