@@ -2,9 +2,8 @@
 
 # For Reviewer
 ## How Grading Works
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Health Tracker - Best Practices](https://docs.google.com/document/d/1RewU2A88u9AWJ-y70FJl-4bPxAUhTPBp8iUPvM5HoQM/pub)
 
-It is VERY IMPORTANT that you read this document before you begin evaluating projects. In order to meet specifications every review must follow the guidelines given in the document.
+Please refer to the reviewer tips column in the [rubric](https://review.udacity.com/#!/projects/5030258562/rubric) for advice on how to evaluate specific rubrics. Email in to review-support@udacity.com if you have any questions.
 
 #Project Overview
 ![Project Roadmap](http://i.imgur.com/9FOltK1.jpg)
