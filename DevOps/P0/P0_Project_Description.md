@@ -1,17 +1,18 @@
 # [DevOps P0] Investigate a Product Workflow: Project Description
 
 ## Introduction
+
 In this project, you will create a document that describes the current situation in a company as seen from the perspective of an aspiring DevOps engineer. The document should capture the typical processes by which software is built, tested, and put into production. The document should reflect both what processes are going well and what processes could be improved.
 
 The goal of this project is to reinforce the core value of DevOps. DevOps is not just a set of technical tools; it is a way of rethinking business processes throughout the organization. The DevOps philosophy sees IT and software development as core components of the organization, working in collaboration with Marketing, Sales, Accounting, and other teams to advance the core function of the company. To understand the value of DevOps and the mindset of a DevOps engineer, it's necessary to look at the larger business context. This project is meant to help you place the DevOps tools you will learn throughout this Nanodegree program in that larger context.
 
-From the perspective of a DevOps engineer seeking to establish good processes, a startup, a small but established company, and a large corporation pose different challenges of their own. For this project, we have provided one fictional example of each of these three types of companies. You are encouraged to choose whichever of these three examples is closest to your real-life experience (from your current position or from previous jobs), or whichever you find most interesting. 
+For a DevOps engineer seeking to establish good processes, a startup, a small but established company, and a large corporation pose different challenges of their own. For this project, we have provided one fictional example of each of these three types of companies. You are required to choose **one** of these companies and analyze it from the DevOps perspective. We encourage you to choose whichever of these three examples is closest to your real-life experience (from your current position or from previous jobs), or whichever you find most interesting. 
 
 If you have not worked in a dev or ops position before, you might find these resources helpful in approaching the project: 
 
 * Talk with friends who currently work in IT Ops or software development, asking about the software development and deployment process. What works well? What is difficult? 
 * Search the web to get a sense of typical [processes](https://www.google.com/#hl=en&q=IT%20development%20typical%20processes) and [problems](https://www.google.com/#hl=en&q=IT+development+typical+processes+problems) around the software development lifecycle, and use them in your narrative.
-* Take a look at the [sample project submission](P0_Sample_Submission.md) that has been provided as a guide. The sample submission uses a different fictional company from the ones provided for your use. 
+* Take a look at the [sample project submission](P0_Sample_Submission.md) that has been provided as a guide. The sample submission describes a different fictional company from the ones provided for your use. 
 
 You will be asked to return to this example for later projects, so please consider your choice carefully. As you progress through the Nanodegree program, you will continuously revisit your project submission to reflect your new skills. This will serve not only to show what you have learned, but also as a source for inspiration for changes that you can bring to your organization using DevOps tools, techniques, and practices.
 
@@ -21,7 +22,7 @@ The project is intended to take about an hour to 1.5 hours to complete.
 
 You will be asked to answer questions that will provide an overview of the current state of your chosen fictional organization as you understand it today. The questions are meant to be a low-stakes way to get you started thinking like a DevOps engineer. Don't worry about finding the perfect answers! Rather, use the questions as a way of orienting yourself to the sort of issues DevOps engineers tackle. 
 
-#### What is the core function of your team? What is the core function of your company or organizational unit? 
+### What is the core function of your team? What is the core function of your company or organizational unit? 
 
 The *core function* of a team is the one clearly stated objective around which the team is organized. A team may have several different responsibilities. For example, an IT team might both provide end-user support and maintain infrastructure such as file servers. But the core function of the team might be something like "ensuring all employees have the IT tools and resources they need to do their jobs efficiently". 
 
@@ -31,7 +32,7 @@ To take another example, if you work at a company that sells shoes, these might 
 * Organizational unit: handling all matters related to selling shoes online
 * Company-wide: selling shoes
 
-#### Who are your team's customers? Are they internal or external? What do they need?
+### Who are your team's customers? Are they internal or external? What do they need?
 
 Continuing with the shoe selling example, the software development team has both external and internal customers. 
 
@@ -40,7 +41,11 @@ Continuing with the shoe selling example, the software development team has both
 
 There might be other internal customers as well, such as the accounting department. Any stakeholder who needs some functionality from the software product counts as a customer. 
 
-#### What is the current flow of software development and delivery in your team? List the main steps and whether they are manual or automated. 
+### What are all the internal teams or people that are involved in a product release, from start to finish? 
+
+Include the project and product managers, the developers, the operations team, sales, marketing: any team that influences the process or outcome.
+
+### What is the current flow of software development and delivery in your team? List the main steps and whether they are manual or automated. 
 
 Steps might include:
 
@@ -50,7 +55,7 @@ Steps might include:
 
 and so on. 
 
-#### How would you characterize communication within the organization? Do team members communicate well with each other? Is communication across teams smooth? How would you improve communication? 
+### How would you characterize communication within the organization? Do team members communicate well with each other? Is communication across teams smooth? How would you improve communication? 
 
 Consider such questions as:
 
@@ -77,4 +82,4 @@ Your submission will be reviewed using [this rubric](https://review.udacity.com/
 
 ### What is the procedure to submit the project? 
 
-When you are confident that your Improvement Plan meets all the requirements of the rubric, you can submit your completed project at [this link](https://review.udacity.com/#!/projects/156/submit-file).
+When you are confident that your project meets all the requirements of the rubric, you can submit your completed document at [this link](https://review.udacity.com/#!/projects/156/start).

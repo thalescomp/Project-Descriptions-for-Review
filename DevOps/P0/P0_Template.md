@@ -24,6 +24,10 @@ Replace this entire text with your answer. Continuing with the shoe selling exam
 
 There might be other internal customers as well, such as the accounting department. Any stakeholder who needs some functionality from the software product counts as a customer. 
 
+#### What are all the internal teams or people that are involved in a product release, from start to finish? 
+
+Replace this entire text with your answer. Include the project and product managers, the developers, the operations team, sales, marketing: any team that influences the process or outcome.
+
 #### What is the current flow of software development and delivery in your team? List the main steps and whether they are manual or automated. 
 
 Replace this entire text with your answer. Steps might include:
