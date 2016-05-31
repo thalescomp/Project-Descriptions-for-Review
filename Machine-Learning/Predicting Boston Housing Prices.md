@@ -33,7 +33,7 @@ Using the NumPy library, calculate a few meaningful statistics about the dataset
 - What is the mean housing price? The median?
 - What is the standard deviation of all housing prices?
 
-1) Using your intuiation, for each of the three features present in the dataset, do you think that an increase in the value of that feature would lead to an increase in the value of `'MDEV'` or a decrease in the value of `'MDEV'`? Justify your answer for each. 
+1) Using your intuition, for each of the three features present in the dataset, do you think that an increase in the value of that feature would lead to an increase in the value of `'MDEV'` or a decrease in the value of `'MDEV'`? Justify your answer for each. 
 
 ### Developing a Model
 
