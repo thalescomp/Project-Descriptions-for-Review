@@ -39,11 +39,10 @@ Rather than add to its existing server farm, ChalkFull intends to use a cloud pr
 
 * Pick any one of the three fictional scenarios described above. You are encouraged, but not required, to choose the same company that you did for P0.
 * Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure. 
-
-** Evaluate the organizational knowledge about these cloud platforms
-** Evaluate your server and application technical requirements
-** Evaluate how each cloud platform can fill these needs
-** Make a recommendation about which cloud platform to use, based on the evaluation
+  * Evaluate the organizational knowledge about these cloud platforms
+  * Evaluate your server and application technical requirements
+  * Evaluate how each cloud platform can fill these needs
+  * Make a recommendation about which cloud platform to use, based on the evaluation
 
 ## Consideration for Analytic Section
 
