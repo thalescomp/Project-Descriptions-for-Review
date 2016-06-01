@@ -47,7 +47,7 @@ For detailed information on how your project will be assessed, see the Rubric no
 ##User Feedback for Stock Hawk:
 
 ###Hellen says: 
-"Right now I can't use this app with my screen reader. My friends love it, so I would love to downlaod it, but the buttons don't tell my screen reader what they do."
+"Right now I can't use this app with my screen reader. My friends love it, so I would love to download it, but the buttons don't tell my screen reader what they do."
 
 ###Your boss says: 
 "We need to prepare Stock Hawk for the Egypt release. Make sure our translators know what to change and make sure the arabic script will format nicely."
