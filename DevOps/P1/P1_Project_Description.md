@@ -1,7 +1,5 @@
 # Migrate an Application Server to the Cloud
 
-## Project Overview
-
 This project has two parts: analytical and technical. 
 
 * For the analytical portion, you will examine a scenario where certain services are to be migrated to the cloud, and make a recommendation about which cloud provider to use. 
@@ -39,10 +37,9 @@ Rather than add to its existing server farm, ChalkFull intends to use a cloud pr
 
 ## Analytical Section Requirements
 
-### The Task
-
 * Pick any one of the three fictional scenarios described above. You are encouraged, but not required, to choose the same company that you did for P0.
 * Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure. 
+
 ** Evaluate the organizational knowledge about these cloud platforms
 ** Evaluate your server and application technical requirements
 ** Evaluate how each cloud platform can fill these needs
