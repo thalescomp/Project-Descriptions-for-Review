@@ -38,13 +38,14 @@ Rather than add to its existing server farm, ChalkFull intends to use a cloud pr
 ## Analytical Section Requirements
 
 * Pick any one of the three fictional scenarios described above. You are encouraged, but not required, to choose the same company that you did for P0.
-* Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure. 
-  * Evaluate the organizational knowledge about these cloud platforms
+* Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure, and examine how good a fit each is for your needs. 
   * Evaluate your server and application technical requirements
-  * Evaluate how each cloud platform can fill these needs
-  * Make a recommendation about which cloud platform to use, based on the evaluation
+  * Evaluate the organizational knowledge about these cloud platforms
+  * Assess any non-technical desires for the product, e.g., regional requirements
+  * Estimate the costs of running the application on the chosen platforms for a year
+* Based on the comparative analysis, make a recommendation about which cloud platform to use.
 
-## Consideration for Analytic Section
+## Considerations for Analytic Section
 
 In your analysis, please take the following into account:
 
@@ -65,6 +66,7 @@ Create a Packer configuration (that is, a Packer file and scripts to be run) for
 
 * The Packer configuration should create a VM that meets the technical specifications that would allow SonarQube to be installed. The requirements are listed [here](http://docs.sonarqube.org/display/SONAR/Requirements).
 * Please note: you do not have to install the SonarQube server itself. All you need to do is write the Packer configuration for a host capable of running the SonarQube server. That is, the created VM should have:
+  * The requisite hardware provisioned.
   * An appropriate JRE (either Oracle JRE or OpenJDK). Use the latest supported version; if older versions are supported by SonarQube, you need not include them unless you want to.
   * An appropriate SQL Server.
 * Cloud credentials should be provided as environment variables. They *should not* be included in the submitted Packer files!
@@ -87,5 +89,4 @@ Your submission will be reviewed using [this rubric](https://review.udacity.com/
 ### What is the procedure to submit the project? 
 
 When you are confident that your project meets all the requirements of the rubric, you can submit it at the Project Reviews site. **Need to add link once project is live on reviews site**
-
 
