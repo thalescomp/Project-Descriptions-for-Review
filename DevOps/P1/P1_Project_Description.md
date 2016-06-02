@@ -13,17 +13,17 @@ For this project you are encouraged, but not required, to use the same company t
 
 ### Ungeneric
 
-As more companies sign up to be Ungeneric customers, the company is facing the challenge that its own database servers can no longer handle the load. It is very difficult to add servers quickly for the needed capacity. Instead of managing a rapidly growing server farm, it seems sensible to move to some cloud platform. 
+As more companies sign up to be Ungeneric customers, the company is facing the challenge that its own hardware servers can no longer handle the load. It is very difficult to add servers quickly for the needed capacity. Instead of managing a rapidly growing server farm, it seems sensible to move to some cloud platform. 
 
-The existing codebase for the application is largely in Ruby. Philosophically the team is more oriented toward open source tools (e.g., Linux over Windows) and prefers to be platform agnostic. 
+The existing codebase for the application is largely in Ruby and it uses MySQL for the database. Philosophically the team is more oriented toward open source tools (e.g., Linux over Windows) While the company currently has no cloud platform preference, but would prefer to move to one of industry leaders, assuming more features and better support. 
 
-From a usage perspective, the product is not CPU or RAM intensive. The main requirement is that the web front end be responsive and that database retrieval and updating happen quickly. One important consideration is that a multinational company wants Ungeneric's product to be available for employees in its China and Europe offices. 
+From a usage perspective, the product is not CPU or RAM intensive. One important consideration is that a multinational company wants Ungeneric's product to be available for employees in its China and Europe offices. 
 
 ### Twisted Threads 
 
 Twisted Threads currently uses a small cloud services provider that has not proved very robust. Uptime is fine during ordinary usage, but unreliable at peak times when inventory is rapidly cycled out, such as during the holidays or during a change of season. 
 
-The service is proving expensive, particularly since the application requirements are quite small: 500MB of RAM and 2TB of database storage. The thinking among the team is that moving to a different, better known cloud platform would be advantageous.
+The service is proving expensive, particularly since the application requirements for a single server are quite small: 500MB of RAM, but at peak times CPU usage goes through the roof. The thinking among the team is that moving to a different, better known cloud platform, preferably one that has good autoscaling capabilities, would be advantageous.
 
 The codebase is largely in C++. Prior to moving to the current cloud services provider, the company hosted its own servers using Windows.The inventory systems, POS infrastructure for brick-and-mortar stores, and back office systems are still Windows-based. The developers are comfortable in a Windows environment and lean toward Azure. However, the company founder feels that Amazon would be a good choice as there is also the possibility of hosting a storefront on Amazon Marketplace. 
 
@@ -33,7 +33,7 @@ This is a source of some tension as the developers feel they might lose their jo
 
 There is a push at ChalkFull to add a new feature: a way for teachers to build lesson plans quickly. The idea is that teachers can share lesson plans they have previously used on a website. Other teachers from across the country can view and comment on the lesson plans, and also revise them for their own use. In addition, ChalkFull will host supplementary materials in the form of images, videos, quizzes, links to external web resources, etc. that can be incorporated into the lesson plan. The expectation is that this feature will be available as an add-on to the existing product within the next quarter, and then marketed as a separate, stand-alone product within six months. 
 
-Rather than add to its existing server farm, ChalkFull intends to use a cloud provider to host this product. The analysis on what provider to use has just begun. ChalkFull's existing codebase is in Python (back end) and JavaScript (front end), so the chosen provider must handle these languages well. It's also important that the site feels responsive even when several users try to access the same set of resources. For example, large videos should play smoothly and uninterruptedly when the user needs. The expectation also is that usage will spike about three weeks before the start of each school term. During the school year, a smaller spike on weekends is expected as teachers prepare their lessons for the upcoming week.
+Rather than add to its existing server farm, ChalkFull intends to use a cloud provider to host this new product. The analysis on what provider to use has just begun. ChalkFull's existing codebase is in Python (back end) and JavaScript (front end), and they intend to use MongoDB as a database. The chosen provider must handle these languages well. The expectation also is that usage will spike about three weeks before the start of each school term. During the school year, a smaller spike on weekends is expected as teachers prepare their lessons for the upcoming week.
 
 ## Analytical Section Requirements
 
@@ -49,15 +49,43 @@ Rather than add to its existing server farm, ChalkFull intends to use a cloud pr
 In your analysis, please take the following into account:
 
 * Does the organization already use services from these cloud platforms or related companies? For instance, MS SQL server would count for MS Azure, and Google Apps would count for Google Cloud Platform.
-* If so, how much weight should be given to this familiarity? Is such preexistent expertise more or less important than the ease of providing of additional services? 
-* What are the server and application requirements? Please specify CPU speed, RAM and disk size, network bandwidth and in/out traffic usage. Are there any specific regional requirements?
-What types of VM would best serve the application needs on each of the cloud platforms? If there are several profiles (e.g. normal usage vs periodical high load), please consider the best VMs for all profiles, along with approximate time distribution for each (e.g., normal usage 300 days a year; high usage 53 days a year; holiday season).
+* Are any of the employees familiar with one or the other of the cloud platforms? If so,, how much weight should be given to this familiarity? Is such preexistent expertise more or less important than the ease of providing of additional services? 
+* What types of VM would best serve the application needs on each of the cloud platforms? Pick the most appropriate VM type, or types (eg for webserver and DB server). 
+  * Are there any specific regional requirements? 
+  * Assume normal usage 300 days a year; high usage 53 days a year and a 10x increase in traffic and load in the high usage period.
 * Given the above profiles, calculate the cost of running the application on each of the cloud platforms for a year, using current prices. Add links to the pricing pages. Since prices change, also specify the date when you retrieved a given pricing page. 
 
-Your recommendation, about one paragraph long, should follow this analysis. Which cloud service should the team pick for this particular application migration, and why?
+After the analysis, make a recommendation. Which cloud service should the team pick for this particular application migration, and why?
 
-## Technical Section Requirements
+## Technical Section Description and Requirements
 
-Create a Packer configuration (that is, a Packer file and scripts to be run) that would create an image that has the requirements for a working SonarQube server (Java JRE/JDK and either MySQL or Postgres database) but not the server itself. See version requirements ![here](http://docs.sonarqube.org/display/SONAR/Requirements).
+After you have made your recommendation and are waiting for a final decision from management, you decide to make a VM configuration to run a SonarQube server. SonarQube is an open source platform to manage code quality, for example: checking for duplicated code, maintaining code standards; conducting unit tests, etc. The VM configuration could be used on any of the cloud platforms, so you don't have to wait to hear what management has decided.
+
+Create a Packer configuration (that is, a Packer file and scripts to be run) for an image that would meet the requirements for installing a working SonarQube server. 
+
+* The Packer configuration should create a VM that meets the technical specifications that would allow SonarQube to be installed. The requirements are listed [here](http://docs.sonarqube.org/display/SONAR/Requirements).
+* Please note: you do not have to install the SonarQube server itself. All you need to do is write the Packer configuration for a host capable of running the SonarQube server. That is, the created VM should have:
+  * An appropriate JRE (either Oracle JRE or OpenJDK). Use the latest supported version; if older versions are supported by SonarQube, you need not include them unless you want to.
+  * An appropriate SQL Server.
+* Cloud credentials should be provided as environment variables. They *should not* be included in the submitted Packer files!
+
+Test your Packer configuration by building this VM on AWS, using the account you created during the lessons preceding this project.
+
+## Project Assessment and Submission Details
+
+### What should I submit?
+
+Your submission will consist of two items:
+
+* The document with your analysis and the recommendation based on that analysis. This document must be submitted in **Markdown format**. 
+* The Packer configuration files for the server. 
+
+### How will the project be reviewed? 
+
+Your submission will be reviewed using [this rubric](https://review.udacity.com/#!/projects/7709298823/rubric). **Link broken until project is live on reviews site** Please go through the rubric carefully to ensure that you have addressed all the project requirements.
+
+### What is the procedure to submit the project? 
+
+When you are confident that your project meets all the requirements of the rubric, you can submit it at the Project Reviews site. **Need to add link once project is live on reviews site**
 
 
