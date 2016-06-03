@@ -5,6 +5,8 @@ This project has two parts: analytical and technical.
 * For the analytical portion, you will examine a scenario where certain services are to be migrated to the cloud, and make a recommendation about which cloud provider to use. 
 * For the technical portion, you will write a Packer config file to create a virtual machine image for a server. We will provide the server specifications.
 
+Both parts of the project need to be successfully completed for the project to be considered complete. 
+
 ## Analytical Section Description
 
 Our fictional companies are evaluating their cloud computing strategies. Each company is facing a different situation. Your goal in the analytical portion of the project is to analyze the situation in one of those companies, and make a recommendation about the cloud provider and platform to adopt. 
@@ -38,16 +40,10 @@ Rather than add to its existing server farm, ChalkFull intends to use a cloud pr
 ## Analytical Section Requirements
 
 * Pick any one of the three fictional scenarios described above. You are encouraged, but not required, to choose the same company that you did for P0.
-* Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure, and examine how good a fit each is for your needs. 
-  * Evaluate your server and application technical requirements
-  * Evaluate the organizational knowledge about these cloud platforms
-  * Assess any non-technical desires for the product, e.g., regional requirements
-  * Estimate the costs of running the application on the chosen platforms for a year
-* Based on the comparative analysis, make a recommendation about which cloud platform to use.
+* Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure, and analyze how good a fit each is for your needs. 
+* Based on the comparative analysis, make a recommendation about which cloud platform to use. Which cloud service should the team pick for this particular application migration, and why?
 
-## Considerations for Analytic Section
-
-In your analysis, please take the following into account:
+Your analysis should take the following into account:
 
 * Does the organization already use services from these cloud platforms or related companies? For instance, MS SQL server would count for MS Azure, and Google Apps would count for Google Cloud Platform.
 * Are any of the employees familiar with one or the other of the cloud platforms? If so,, how much weight should be given to this familiarity? Is such preexistent expertise more or less important than the ease of providing of additional services? 
@@ -56,20 +52,18 @@ In your analysis, please take the following into account:
   * Assume normal usage 300 days a year; high usage 53 days a year and a 10x increase in traffic and load in the high usage period.
 * Given the above profiles, calculate the cost of running the application on each of the cloud platforms for a year, using current prices. Add links to the pricing pages. Since prices change, also specify the date when you retrieved a given pricing page. 
 
-After the analysis, make a recommendation. Which cloud service should the team pick for this particular application migration, and why?
-
 ## Technical Section Description and Requirements
 
 After you have made your recommendation and are waiting for a final decision from management, you decide to make a VM configuration to run a SonarQube server. SonarQube is an open source platform to manage code quality, for example: checking for duplicated code, maintaining code standards; conducting unit tests, etc. The VM configuration could be used on any of the cloud platforms, so you don't have to wait to hear what management has decided.
 
 Create a Packer configuration (that is, a Packer file and scripts to be run) for an image that would meet the requirements for installing a working SonarQube server. 
 
-* The Packer configuration should create a VM that meets the technical specifications that would allow SonarQube to be installed. The requirements are listed [here](http://docs.sonarqube.org/display/SONAR/Requirements).
-* Please note: you do not have to install the SonarQube server itself. All you need to do is write the Packer configuration for a host capable of running the SonarQube server. That is, the created VM should have:
+* The Packer configuration should create a VM that meets the [technical specifications]((http://docs.sonarqube.org/display/SONAR/Requirements) that would allow SonarQube to be installed. That is, the created VM should have:
   * The requisite hardware provisioned.
-  * An appropriate JRE (either Oracle JRE or OpenJDK). Use the latest supported version; if older versions are supported by SonarQube, you need not include them unless you want to.
+  * An appropriate JRE (either Oracle JRE or OpenJDK). Use the latest supported version; if older versions are supported by SonarQube, you need not include them.
   * An appropriate SQL Server.
-* Cloud credentials should be provided as environment variables. They *should not* be included in the submitted Packer files!
+* Please note: **you do not have to install the SonarQube software itself**. All you need to do is write the Packer configuration for a host that meets the above requirements, so that it can eventually run the SonarQube software. 
+* Cloud credentials should be provided as environment variables. They **should not** be included in the submitted Packer files!
 
 Test your Packer configuration by building this VM on AWS, using the account you created during the lessons preceding this project.
 
