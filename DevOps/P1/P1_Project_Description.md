@@ -78,9 +78,9 @@ Your submission will consist of two items:
 
 ### How will the project be reviewed? 
 
-Your submission will be reviewed using [this rubric](https://review.udacity.com/#!/projects/7709298823/rubric). **Link broken until project is live on reviews site** Please go through the rubric carefully to ensure that you have addressed all the project requirements.
+Your submission will be reviewed using [this rubric](https://review.udacity.com/#!/rubrics/156/view). Please go through the rubric carefully to ensure that you have addressed all the project requirements.
 
 ### What is the procedure to submit the project? 
 
-When you are confident that your project meets all the requirements of the rubric, you can submit it at the Project Reviews site. **Need to add link once project is live on reviews site**
+When you are confident that your project meets all the requirements of the rubric, you can submit it at [the Project Reviews site](https://review.udacity.com/#!/rubrics/156/submit-file).
 
