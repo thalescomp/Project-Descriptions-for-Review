@@ -58,7 +58,7 @@ After you have made your recommendation and are waiting for a final decision fro
 
 Create a Packer configuration (that is, a Packer file and scripts to be run) for an image that would meet the requirements for installing a working SonarQube server. 
 
-* The Packer configuration should create a VM that meets the [technical specifications]((http://docs.sonarqube.org/display/SONAR/Requirements) that would allow SonarQube to be installed. That is, the created VM should have:
+* The Packer configuration should create a VM that meets the [technical specifications](http://docs.sonarqube.org/display/SONAR/Requirements) that would allow SonarQube to be installed. That is, the created VM should have:
   * The requisite hardware provisioned.
   * An appropriate JRE (either Oracle JRE or OpenJDK). Use the latest supported version; if older versions are supported by SonarQube, you need not include them.
   * An appropriate SQL Server.
@@ -78,9 +78,9 @@ Your submission will consist of two items:
 
 ### How will the project be reviewed? 
 
-Your submission will be reviewed using [this rubric](https://review.udacity.com/#!/rubrics/156/view). Please go through the rubric carefully to ensure that you have addressed all the project requirements.
+Your submission will be reviewed using [this rubric](https://review.udacity.com/#!/rubrics/179/view). Please go through the rubric carefully to ensure that you have addressed all the project requirements.
 
 ### What is the procedure to submit the project? 
 
-When you are confident that your project meets all the requirements of the rubric, you can submit it at [the Project Reviews site](https://review.udacity.com/#!/rubrics/156/submit-file).
+When you are confident that your project meets all the requirements of the rubric, you can submit it at [the Project Reviews site](https://review.udacity.com/#!/rubrics/179/submit-file).
 
