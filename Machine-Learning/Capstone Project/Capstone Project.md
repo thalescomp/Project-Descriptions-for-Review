@@ -31,7 +31,6 @@ The following files should be included in your submission, and can be packaged a
 - A README documenting the software and libraries used in your project, including any necessary instructions required to execute your code.
 
 ### Evaluation
-
 Your project will be reviewed by a Udacity reviewer against **<a href="https://review.udacity.com/#!/projects/5420178917/rubric">this rubric</a>**. Be sure to review it thoroughly before you submit. All criteria must "meet specifications" in order to pass.
 
 ### Submission
