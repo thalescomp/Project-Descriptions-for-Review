@@ -34,7 +34,7 @@ ChalkFull is more than 25 years old. Today, the company has around 4,000 employe
 * A team that maintains the public facing website
 * Internal help desk for employees, etc.
 
-Some of these teams follow agile practises, but there are also teams in which processes are entrenched and seem bogged down with red tape. The newly hired VP of Engineering has expressed her desire to have the entire company be nimble. However, there is not much of a company culture around DevOps yet. The knowledge and culture around good DevOps practises needs to be built. 
+Some of these teams follow agile practices, but there are also teams in which processes are entrenched and seem bogged down with red tape. The newly hired VP of Engineering has expressed her desire to have the entire company be nimble. However, there is not much of a company culture around DevOps yet. The knowledge and culture around good DevOps practices needs to be built. 
 
 ## Challenges
 
@@ -56,7 +56,7 @@ You are a developer on the agile team that is responsible for the flagship produ
 
 ### Operations Perspective
 
-You are a member of the Operations team that supports the infrastructure for the hosted application (i.e., for when schools want ChalkFull to run the app on its own servers instead of at the school site). You also support the infrastructure for schools that run the application on their own site to upgrade the software (when a new release or bug fix is implemented). Historically, your team is frustrated that the developer team often requires you to push out a new feature too quickly, which compromises testing and getting a signoff from QA. When such rollouts go well, Operations does not get recognition for its work; your team is visible only when something does not work. Things seem to be getting better, at least in terms of rhetoric, as the VP of Engineering has made efforts to include your team's input on requirements and to ensure that your team is notified about upcoming projects earlier. However, some of your team members are worried about her desire to implement a culture of DevOps; if developers will be responsible for operations functions as well, will the Ops team no longer be needed? 
+You are a member of the Operations team that supports the infrastructure for the hosted application (i.e., for when schools want ChalkFull to run the app on its own servers instead of at the school site). You also support the infrastructure for schools that run the application on their own site to upgrade the software when bug fixes or new releases occur. Historically, your team is frustrated that the developer team often requires you to push out a new feature too quickly, which compromises testing and getting a signoff from QA. When such rollouts go well, Operations does not get recognition for its work; your team is visible only when something does not work. Things seem to be getting better, at least in terms of rhetoric, as the VP of Engineering has made efforts to include your team's input on requirements and to ensure that your team is notified about upcoming projects earlier. However, some of your team members are worried about her desire to implement a culture of DevOps; if developers will be responsible for operations functions as well, will the Ops team no longer be needed? 
 
 
 [Project Description](P0_Project_Description.md)
