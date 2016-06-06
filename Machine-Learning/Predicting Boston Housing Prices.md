@@ -39,13 +39,13 @@ Using the NumPy library, calculate a few meaningful statistics about the dataset
 
 2) For the hypothetical model presented in the project, would you consider this model to have successfully captured the variation of the target variable? Why or why not?
 
-3) What is the benefit tosplitting a dataset into some ratio of training and testing subsets for a learning algorithm?
+3) What is the benefit to splitting a dataset into some ratio of training and testing subsets for a learning algorithm?
 
 ### Analyzing Model Performance
 
 4) Choose one of the learning curves graphs presented in the project and state the maximum depth for the model. What happens to the score of the training curve as more training points are added? What about the testing curve? Would having more training points benefit the model?
 
-5) When the model is trained with a maximum dpeth of 1, does the model suffer from high bias or from high variance? How about when the model is trained with a maximum depth of 10? What visual cues in the graph justify your conclusions?
+5) When the model is trained with a maximum depth of 1, does the model suffer from high bias or from high variance? How about when the model is trained with a maximum depth of 10? What visual cues in the graph justify your conclusions?
 
 6) Which maximum depth do you think results in a model that best generalizes to unseen data? What intuition lead you do this answer?
 
