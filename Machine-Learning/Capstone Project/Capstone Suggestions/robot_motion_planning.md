@@ -49,12 +49,11 @@ On each maze, the robot must complete two runs. In the first run, the robot is a
 ### Submitting your Project
 
 Please refer to the [Capstone Project rubric](https://review.udacity.com/#!/rubrics/108/view) to self-evaluate your work before submitting. The following deliverables will be required as a single compressed archive:
-- All of the necessary project code, datasets, supplementary files for your project
-- Your project report as a PDF, which adheres to a similar structure of the [project report template](https://github.com/udacity/machine-learning/blob/master/projects/capstone/project_report_template.md)
+- All of the necessary project code, datasets, supplementary files for your project.
+- Your project report as a PDF, which adheres to a similar structure of the [project report template](https://github.com/udacity/machine-learning/blob/master/projects/capstone/project_report_template.md).
 - A README with title text **"Plot and Navigate a Virtual Maze"** along with instructions about running the code and acquiring datasets (if necessary).
 
-**Report Structure**
-
+**Report Structure**  
 Due to the nature of this project, the following rubric items will require specific responses in your report:
 - **Data Exploration**: Use the robot specifications section to discuss how the robot will interpret and explore its environment. Additionally, one of the three mazes provided should be discussed in some detail, such as some interesting structural observations and one possible solution you have found to the goal (in number of steps). Try to aim for an optimal path, if possible!
 - **Exploratory Visualization**: This section should correlate with the section above, in that you should provide a visualization of one of the three example mazes using the showmaze.py file. Your explanation in **Data Exploration** should coincide with the visual cues from this maze.
