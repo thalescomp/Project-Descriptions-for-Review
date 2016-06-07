@@ -25,7 +25,7 @@ These are the requirements for the analytical section of the project:
 * Pick any one of the three fictional scenarios described later in this lesson. You are encouraged, but not required, to choose the same company that you did for P0.
 * Pick any 2 public cloud providers from among Amazon Web Services, Google Cloud Platform, or Microsoft Azure, and analyze how good a fit each is for your needs. Your analysis should take the following into account:
   * Does the organization already use services from these cloud platforms or related companies? For instance, MS SQL server would count for MS Azure, and Google Apps would count for Google Cloud Platform.
-  * Are any of the employees familiar with one or the other of the cloud platforms? If so,, how much weight should be given to this familiarity? Is such preexistent expertise more or less important than the ease of providing of additional services?
+  * Are any of the employees familiar with one or the other of the cloud platforms? If so, how much weight should be given to this familiarity? Is such preexistent expertise more or less important than the ease of providing of additional services?
   * What types of VM would best serve the application needs on each of the cloud platforms? Pick the most appropriate VM type, or types (eg for web server and DB server).
   * Are there any specific regional requirements?
   * Are there some company goals that make one of the solutions more attractive?
