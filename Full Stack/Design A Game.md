@@ -16,7 +16,7 @@ The datastore is typically at <a href="http://localhost:8000" target="_blank">ht
 ### Task 2: Implement Your Own Game
 Come up with a new game to implement!
 This could be a more advanced guessing game such as Hangman, or a simple two player game like Tic-Tac-Toe.
-**Note:** Implementing a copy of Guess a Number will not be acceptable, we want you to be creative!
+**Note:** Implementing a copy of Guess a Number such as Guess a Date will not be acceptable, we want you to be creative!
 
 Consider how the existing endpoints will work with the new game - you'll need to modify the models, forms, and resource containers, but the general structure should stay roughly the same so that Games can be created, moves played, and the game state updated and stored according to the rules.
 

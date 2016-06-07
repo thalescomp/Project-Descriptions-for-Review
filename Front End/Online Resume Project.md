@@ -3,9 +3,15 @@
 # For Reviewers
 ## How Grading Works
 
-We have created a document that gives rubric specific instructions to help you grade this project.You can access the document here: [Interactive Resume - Best Practices](https://docs.google.com/document/d/1B8GqZJKod90_dHXO2bb-RyPeOLq8_VJPHcDIAql3Q2o/pub)
+Please refer to the reviewer tips column in the [rubric](https://review.udacity.com/#!/projects/2962818615/rubric) for advice on how to evaluate specific rubrics. Email in to review-support@udacity.com if you have any questions.
 
-It is VERY IMPORTANT that you read this document before you begin evaluating projects. Every review must follow the guidelines in this document.
+As a pre-requisite, we want students to start being aware of the need for code readability.
+Please select “Can’t Review” in the Project Review tab if you find multiple instances of the following formatting errors in the student’s code making it difficult to read such as:
+* Indentation very inconsistent or trailing whitespace in files
+* Spaces missing after colons or before curly braces or blank lines missing between style rules in CSS
+* Missing or unnecessary semicolons in JavaScript
+
+These errors indicate that even the basic code cleaning tools below were not used and the code is not ready to review. Other Code Quality issues should be handled with Suggestion comments. Code quality issues do not cause a project to not meet specifications.
 
 # Project Overview
 
