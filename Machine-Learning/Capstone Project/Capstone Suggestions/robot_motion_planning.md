@@ -27,48 +27,9 @@ To visualize a maze you have created, or to demonstrate one of the sample mazes 
 
 `python showmaze.py test_maze_##.txt` (replace ## with the maze number of choice)
 
-### Tasks
-Use the following instructions as a guideline to work on your project.
+### Environment Specifications
 
-**Step 1: Design and test a model architecture that can identify sequences of digits in an image.**
-
-Design and implement a deep learning model that learns to recognize sequences of digits. Train it using synthetic data first (recommended) or directly use real-world data (see step 2). There are various aspects to consider when thinking about this problem:
-- Your model can be derived from a deep neural net or a convolutional network.
-- You could experiment sharing or not the weights between the softmax classifiers.
-- You can also use a recurrent network in your deep neural net to replace the classification layers and directly emit the sequence of digits one-at-a-time.
-
-To help you develop your model, the simplest path is likely to generate a synthetic dataset by concatenating character images from [notMNIST](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html) or [MNIST.](http://yann.lecun.com/exdb/mnist/) This can provide you with a quick way to run experiments. (Or you can go directly to the real-world dataset of Step 2.) In order to produce a synthetic sequence of digits for testing, you can for example limit yourself to sequences up to five digits, and use five classifiers on top of your deep network. You would have to incorporate an additional ?blank? character to account for shorter number sequences.
-
-Here is for example a [published baseline model](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42241.pdf) on this problem ([video](https://www.youtube.com/watch?v=vGPI_JvLoN0)).
-
-- *What approach did you take in coming up with a solution to this problem?*
-- *What does your final architecture look like? (Type of model, layers, sizes, connectivity, etc.)*
-- *How did you train your model? Did you generate a synthetic dataset (if so, explain how)?*
-
-**Step 2: Train a model on a realistic dataset.**
-
-Once you have settled on a good architecture, you can train your model on real data. In particular, [the SVHN dataset](http://ufldl.stanford.edu/housenumbers/) is a good large scale dataset collected from house numbers in Google Street View. Training on this more challenging dataset, where the digits are not neatly lined-up and have various skews, fonts and colors, likely means you have to do some hyperparameter exploration to do well.
-
-- *How does your model perform on a realistic dataset?*
-- *What changes did you have to make, if any?*
-
-**Step 3 (optional): Put the model into an Android app.**
-
-Do this step only if you have access to an Android device. If you don?t, you may either:
-- Take pictures of numbers that you find around you, and run them through your classifier on your computer to produce example results, or,
-- Use OpenCV / SimpleCV / Pygame to capture live images from a webcam.
-
-Loading a TensorFlow model into a camera app on Android is demonstrated in the [TensorFlow Android demo app](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android), which you can simply modify.
-
-- *Is your model able to perform equally well on captured pictures or a live camera stream? Document how you built the interface to your model.*
-
-**Step 4: Explore!**
-
-There are many things you can do once you have the basic classifier in place. One example would be to also localize where the numbers are on the image. The SVHN dataset provides bounding boxes that you can tune to train a localizer. Simply training a regression loss to the coordinates of the bounding box is one way to get decent localization.
-
-Once you have the data localized, you can for example try turn it into an augmented reality app by overlaying your answer on the image like the [Word Lens](https://en.wikipedia.org/wiki/Word_Lens) app does. Those are just examples of extensions you can look into. Use your imagination!
-
-- Make sure to report what extension(s) you have implemented and how they worked.
+![Image](http://i.imgur.com/rUN4j0p.png)
   
 ### Submitting your Project
 
