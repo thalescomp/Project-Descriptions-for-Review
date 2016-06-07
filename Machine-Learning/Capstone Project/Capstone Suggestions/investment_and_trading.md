@@ -50,7 +50,7 @@ You can extend the system to suggest good stocks to buy or sell, and when. You c
 Please refer to the [Capstone Project rubric](https://review.udacity.com/#!/rubrics/108/view) to self-evaluate your work before submitting. The following deliverables will be required as a single compressed archive:
 - All of the necessary project code, datasets, supplementary files for your project
 - Your project report as a PDF, which adheres to a similar structure of the [project report template](https://github.com/udacity/machine-learning/blob/master/projects/capstone/project_report_template.md)
-- A README with title text **"Build a Social Image Description Platform"** along with instructions about running the code and acquiring datasets (if necessary).
+- A README with title text **"Build a Stock Price Indicator"** along with instructions about running the code and acquiring datasets (if necessary).
 
 ### Available Courses 
 
