@@ -11,7 +11,7 @@ This is a common workflow for front-end web developers. Typically, you'll be pro
 ### Project Instructions
 ![Animal Card Mockup](http://lh3.googleusercontent.com/6Pp0fOn1FH0kcLXM0hLsADggBPsaiFJdd3bjxo2-VgKQWC8_yGttVbkN2wi39C1CAdHyYQAlDjdFe4hGo4U=s0#w=800&h=1232)
 
-0. [Download](https://www.udacity.com/api/nodes/7422899268/supplemental_media/animal-trading-cardszip/download) and unzip `animal-trading-cards.zip` from the downloadables section. Inside, you'll find `card.html`, `styles.css`, `clownfish.jpg`, and the `design-prototype.pdf`.
+0. [Download](https://github.com/udacity/fend-animal-trading-cards/archive/master.zip) and unzip `animal-trading-cards-master.zip` from the downloadables section. Inside, you'll find `card.html`, `styles.css`, `clownfish.jpg`, and the `design-prototype.pdf`.
 1. Next, add the proper CSS to `styles.css` to recreate the design prototype. You’ll need to modify `card.html` to include `attributes` and use `selectors` to specify the elements you want to style. Also, make sure to link to your stylesheet in `card.html` or else your CSS will not be applied to your webpage.
 2. The CSS should apply these styles to match the design prototype:
     - italicized text for the animal's interesting fact
