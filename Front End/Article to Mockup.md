@@ -12,7 +12,7 @@ See below the mockup for the article:
 
 ### Project Instructions
 
-0. Download and unzip `mockup-to-html.zip` from the downloadables section. You'll find `article.html`, the article mockup image and a file called `reflections.txt` inside.
+0. Download and unzip: [`mockup-to-html.zip`](https://github.com/udacity/frontend-mockup-to-article/archive/master.zip). You'll find `article.html`, the article mockup image and a file called `reflections.txt` inside.
 1. Use what you've learned about web development so far to edit `article.html` so that it looks **exactly** like the mockup image. You will need to use new elements, which means that you'll need to [research](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and experiment! (Hint: they are called "superscript," "horizontal rule," and "strikethrough.")
 2. When you've finished building the article, open up `reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
   * What new skills have you learned?
